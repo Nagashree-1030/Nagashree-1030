@@ -1,3 +1,9 @@
+Absolutely. I’d keep the overall structure from the previous version and make the **personal-values section more mature and executive-looking**, with exactly five qualities:
+
+**Discipline • Hardwork • Consistency • Ownership • Empathy**
+
+I’d also make the graph more professional by focusing on your **engineering journey and measurable impact**, rather than using made-up performance numbers.
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:312E81,75:4F46E5,100:06B6D4&height=230&section=header&text=NAGASHREE%20M%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
@@ -28,8 +34,6 @@
 
 </div>
 
-<br/>
-
 <table>
 <tr>
 <td width="52%" valign="top">
@@ -40,7 +44,7 @@ I am an **Operations Engineer with 2 years of professional experience at Trellix
 
 My work involves taking operational challenges from **problem identification through design, implementation, validation, and adoption**.
 
-I enjoy working on problems where engineering can create a measurable difference — whether that means reducing weeks of manual effort, improving operational workflows, or applying AI to make information and decision-making more accessible.
+I enjoy solving problems where engineering can create measurable business value — whether that means reducing weeks of manual effort, improving operational workflows, or applying AI to make information and decision-making more accessible.
 
 </td>
 
@@ -48,12 +52,12 @@ I enjoy working on problems where engineering can create a measurable difference
 
 ## 🎯 What Drives Me
 
-* **Problem Solving** — Breaking complex problems into practical, scalable solutions.
-* **Continuous Learning** — Learning new technologies by applying them to real engineering problems.
-* **Meaningful Impact** — Measuring success by the value a solution creates, not simply by the technology used.
+* **Problem Solving** — Breaking complex problems into practical and scalable solutions.
+* **Continuous Learning** — Learning new technologies by applying them to real engineering challenges.
+* **Meaningful Impact** — Measuring success by the value a solution creates.
 * **Ownership** — Taking responsibility from the initial idea through implementation and support.
 * **Collaboration** — Working effectively across engineering, operations, and leadership teams.
-* **Improvement** — Looking for opportunities to make existing systems simpler, faster, and more reliable.
+* **Continuous Improvement** — Looking for opportunities to make systems simpler, faster, and more reliable.
 
 </td>
 </tr>
@@ -63,13 +67,67 @@ I enjoy working on problems where engineering can create a measurable difference
 
 <div align="center">
 
-### 🧠 Emotional Intelligence
+# 💎 PROFESSIONAL VALUES
 
-**I believe strong engineering is built not only on technical capability, but also on understanding people, listening carefully, communicating clearly, and adapting to different perspectives.**
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### 🎯
+
+**DISCIPLINE**
+
+Consistent execution with attention to detail and quality.
+
+</td>
+
+<td align="center" width="20%">
+
+### 💪
+
+**HARDWORK**
+
+Putting in the effort required to solve difficult problems properly.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔄
+
+**CONSISTENCY**
+
+Building reliable results through dependable execution.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤝
+
+**OWNERSHIP**
+
+Taking responsibility for outcomes, not just tasks.
+
+</td>
+
+<td align="center" width="20%">
+
+### 💙
+
+**EMPATHY**
+
+Understanding people, listening carefully, and communicating with respect.
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
-*Technology solves problems. People make solutions successful.*
+### **Strong engineering is a combination of technical capability, responsibility, and understanding people.**
 
 </div>
 
@@ -138,7 +196,7 @@ I enjoy working on problems where engineering can create a measurable difference
 
 Architected an automated workflow that transformed a process requiring approximately **26 days of engineering effort into a minutes-long workflow**.
 
-The initiative significantly reduced manual effort and demonstrated how operational processes can be redesigned through engineering rather than simply optimized manually.
+This significantly reduced manual effort and demonstrated how operational processes can be redesigned through engineering.
 
 </td>
 
@@ -146,7 +204,7 @@ The initiative significantly reduced manual effort and demonstrated how operatio
 
 ### 🤖 AI-Powered Automation
 
-Designed and implemented **LLM-powered automation solutions using Google Apps Script**, helping eliminate repetitive workflows and making automation accessible to broader internal teams.
+Designed and implemented **LLM-powered automation solutions using Google Apps Script**, helping eliminate repetitive workflows and improve operational efficiency.
 
 </td>
 
@@ -158,7 +216,7 @@ Designed and implemented **LLM-powered automation solutions using Google Apps Sc
 
 ### 🧠 RAG & AI Infrastructure
 
-Collaborated with engineering teams on **RAG applications and internal AI infrastructure**, contributing to improvements around reliability, accuracy, and practical enterprise usage.
+Collaborated with engineering teams on **RAG applications and internal AI infrastructure**, contributing to reliability, accuracy, and practical enterprise AI adoption.
 
 </td>
 
@@ -166,7 +224,7 @@ Collaborated with engineering teams on **RAG applications and internal AI infras
 
 ### 🎫 Operational Transformation
 
-Improved internal operational processes, including ticketing and incident-management workflows, with a focus on making processes more structured, traceable, and efficient.
+Improved internal operational processes, including ticketing and incident-management workflows, making processes more structured, traceable, and efficient.
 
 </td>
 
@@ -186,7 +244,7 @@ Worked with **executive leadership and cross-functional stakeholders** to unders
 
 ### 🌱 Leadership & Culture
 
-Served as **CSR Lead**, coordinating initiatives and company activities while working with people across different teams and functions.
+Served as **CSR Lead**, coordinating initiatives and company activities while collaborating with people across different teams and functions.
 
 </td>
 
@@ -195,7 +253,7 @@ Served as **CSR Lead**, coordinating initiatives and company activities while wo
 
 ---
 
-# 📈 Measurable Impact
+# 📊 Engineering Impact
 
 <div align="center">
 
@@ -208,7 +266,7 @@ Served as **CSR Lead**, coordinating initiatives and company activities while wo
 
 **→ Minutes**
 
-Automated engineering workflow
+Engineering workflow automation
 
 </td>
 
@@ -218,7 +276,7 @@ Automated engineering workflow
 
 **Reduction**
 
-Data-processing time through Python automation
+Data-processing time
 
 </td>
 
@@ -228,7 +286,7 @@ Data-processing time through Python automation
 
 **Automation**
 
-LLM-powered internal workflows
+LLM-powered workflows
 
 </td>
 
@@ -249,6 +307,51 @@ Executive information platform
 
 ---
 
+# 📈 Engineering Growth
+
+<div align="center">
+
+### From learning technology → to applying it → to creating measurable operational value
+
+```text
+                              ╭────────────────────── 🚀 IMPACT
+                         ╭────╯
+                    ╭────╯
+               ╭────╯
+          ╭────╯
+     ╭────╯
+╭────╯
+└─────────────────────────────────────────────────────────────►
+
+ LEARN        BUILD        AUTOMATE        IMPROVE        SCALE
+   │            │             │               │              │
+ Knowledge   Solutions     Efficiency      Reliability     Impact
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+|           🌱 Learn          |          🛠️ Build         |       ⚙️ Automate      |     📊 Improve     |       🚀 Scale       |
+| :-------------------------: | :------------------------: | :--------------------: | :----------------: | :------------------: |
+| Understand new technologies | Convert ideas into systems | Remove repetitive work | Measure & optimize | Create lasting value |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📌 A simple progression that defines my work
+
+**Understand the problem → Build the solution → Automate the process → Measure the outcome → Improve continuously**
+
+</div>
+
+---
+
 # 🚀 Selected Engineering Projects
 
 <table>
@@ -263,7 +366,7 @@ Executive information platform
 
 Designed and built a specialized RAG platform that brings together organizational tasks, policies, and operational information into a centralized dashboard.
 
-### Key Focus
+**Technology**
 
 `RAG` `LLMs` `Python` `Dashboard`
 
@@ -277,7 +380,7 @@ Designed and built a specialized RAG platform that brings together organizationa
 
 Built an automation pipeline integrating Jira, GitHub, and GCP to analyze bugs, tickets, and source code while reducing manual triage effort.
 
-### Key Focus
+**Technology**
 
 `Jira` `GitHub API` `GCP` `Automation`
 
@@ -295,7 +398,7 @@ Built an automation pipeline integrating Jira, GitHub, and GCP to analyze bugs, 
 
 Developed an end-to-end workflow for access removal, validation, workflow execution, and status tracking.
 
-### Key Focus
+**Technology**
 
 `Java` `JavaScript` `APIs` `Testing`
 
@@ -309,9 +412,9 @@ Developed an end-to-end workflow for access removal, validation, workflow execut
 
 Developed ML models using ticket history, preprocessing, and feature engineering to identify potentially high-risk tickets.
 
-### Impact
+**Impact**
 
-**25% reduction in data-processing time**
+### ⚡ 25% reduction in data-processing time
 
 `Python` `ML` `Feature Engineering`
 
@@ -320,39 +423,6 @@ Developed ML models using ticket history, preprocessing, and feature engineering
 </tr>
 
 </table>
-
----
-
-# 📊 Growth Through Engineering
-
-<div align="center">
-
-### From understanding the problem → to creating measurable operational impact
-
-</div>
-
-```text
-IMPACT
-  │
-  │                                             ●
-  │                                        ●
-  │                                   ●
-  │                              ●
-  │                         ●
-  │                    ●
-  │               ●
-  │          ●
-  │     ●
-  │ ●
-  └──────────────────────────────────────────────────►
-    Learn     Build     Apply     Improve     Scale
-```
-
-<div align="center">
-
-<img src="https://quickchart.io/chart?c={type:'line',data:{labels:['Learn','Build','Apply','Improve','Scale'],datasets:[{label:'Engineering Growth',data:[20,38,58,78,100],fill:true,borderColor:'%234F46E5',backgroundColor:'rgba(79,70,229,0.18)',pointBackgroundColor:'%2306B6D4',pointBorderColor:'%23ffffff',pointRadius:6,borderWidth:4}]},options:{plugins:{legend:{display:false}},scales:{y:{min:0,max:100,grid:{color:'rgba(79,70,229,0.15)'}},x:{grid:{color:'rgba(6,182,212,0.12)'}}}}}" width="90%"/>
-
-</div>
 
 ---
 
@@ -367,7 +437,7 @@ IMPACT
 
 🔍
 
-**Understand**
+**UNDERSTAND**
 
 Understand the business and technical problem.
 
@@ -379,7 +449,7 @@ Understand the business and technical problem.
 
 📐
 
-**Design**
+**DESIGN**
 
 Choose a practical and maintainable solution.
 
@@ -391,7 +461,7 @@ Choose a practical and maintainable solution.
 
 ⚙️
 
-**Build**
+**BUILD**
 
 Implement, integrate, and automate.
 
@@ -403,7 +473,7 @@ Implement, integrate, and automate.
 
 🧪
 
-**Validate**
+**VALIDATE**
 
 Test reliability, accuracy, and edge cases.
 
@@ -415,7 +485,7 @@ Test reliability, accuracy, and edge cases.
 
 📈
 
-**Improve**
+**IMPROVE**
 
 Measure results and continuously optimize.
 
@@ -428,11 +498,15 @@ Measure results and continuously optimize.
 
 <div align="center">
 
-## 💙 Engineering with Purpose
+# 🧠 Emotional Intelligence
 
-**My goal is not simply to build more technology.**
+### Technical skills create solutions.
 
-### **My goal is to build technology that makes work better.**
+### Emotional intelligence helps those solutions succeed.
+
+I value **active listening, clear communication, respect for different perspectives, constructive collaboration, and the ability to adapt to people and situations**.
+
+Whether working with engineers, operations teams, or leadership, I believe the best outcomes come from understanding both the **technical problem and the people affected by it**.
 
 </div>
 
@@ -462,7 +536,7 @@ Measure results and continuously optimize.
 
 <div align="center">
 
-### CSR • Collaboration • Leadership • Community
+### CSR • Collaboration • Leadership • Culture
 
 As **CSR Lead at Trellix**, I have had the opportunity to work beyond technical responsibilities — coordinating initiatives, collaborating with colleagues across teams, and contributing to a stronger workplace culture.
 
@@ -474,7 +548,7 @@ I value environments where people can **communicate openly, support one another,
 
 <div align="center">
 
-# ✨ What I Bring
+# 💙 What I Bring
 
 <table>
 <tr>
@@ -483,7 +557,7 @@ I value environments where people can **communicate openly, support one another,
 
 ### 🧠 Technical Thinking
 
-Solve problems systematically.
+Systematic problem solving
 
 </td>
 
@@ -491,7 +565,7 @@ Solve problems systematically.
 
 ### ⚙️ Operational Thinking
 
-Look for efficiency and scale.
+Efficiency & scalability
 
 </td>
 
@@ -499,7 +573,7 @@ Look for efficiency and scale.
 
 ### 🤝 People Skills
 
-Listen, communicate, and collaborate.
+Communication & collaboration
 
 </td>
 
@@ -507,12 +581,16 @@ Listen, communicate, and collaborate.
 
 ### 📊 Business Thinking
 
-Focus on measurable outcomes.
+Focus on measurable outcomes
 
 </td>
 
 </tr>
 </table>
+
+<br/>
+
+### **I don't just look at what needs to be done — I look at how it can be done better.**
 
 </div>
 
@@ -520,9 +598,17 @@ Focus on measurable outcomes.
 
 <div align="center">
 
-## One principle that guides my work:
+# ✨ Professional Philosophy
 
-# **"Do the work thoroughly, make the solution useful, and leave the process better than I found it."**
+### **Understand deeply.**
+
+### **Build thoughtfully.**
+
+### **Deliver reliably.**
+
+### **Learn continuously.**
+
+### **Create meaningful impact.**
 
 </div>
 
@@ -557,6 +643,7 @@ Focus on measurable outcomes.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:312E81,100:111827&height=170&section=footer" width="100%"/>
 
 </div>
+
 
 
 
