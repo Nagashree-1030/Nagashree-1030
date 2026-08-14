@@ -99,7 +99,6 @@ I'm an **Operations Engineer at Trellix**, working at the intersection of **auto
 
 <p align="left">
   <a href="mailto:subramanyamnagashree@gmail.com">✉️ subramanyamnagashree@gmail.com</a><br/>
-  📞 9361257229<br/>
   📍 Bangalore, Karnataka, 560068
 </p>
 
