@@ -1,2 +1,126 @@
-# ✨ Nagashree M S ✨ ### 🔷 Operations Engineer & Automation Architect 🔷 📍 Bengaluru, Karnataka, 560068[cite: 1] | 📞 9361257229[cite: 1] | ✉️ subramanyamnagashree@gmail.com[cite: 1] 🔗 LinkedIn Profile[cite: 1]
---- ## 🎯 EXECUTIVE PROFILE > **Dynamic and results-driven Operations Engineer** with 2 years of enterprise experience[cite: 1], specializing in bridging the gap between highly technical infrastructure and executive business strategy. Proven expertise in deploying AI-driven automation (LLMs & RAG systems) to drastically reduce operational overhead[cite: 1]. Recognized as a proactive leader capable of transforming complex, multi-day engineering tasks into streamlined, minutes-long workflows, while simultaneously driving corporate culture and business development initiatives[cite: 1]. --- ## ⚙️ TECHNICAL ARSENAL | Category | 🟢 Advanced Expertise (Hands-On) | 🟡 Foundational Knowledge (Basics) | | :--- | :--- | :--- | | **Languages & Scripts** | Java, JavaScript, Python[cite: 1] | Bash, Shell (Familiarity) | | **AI & Machine Learning** | ML Models, Predictive Analytics, Feature Engineering, RAG Integration[cite: 1] | Data Pipelines | | **Tools & APIs** | REST APIs, Jira, Git, GitHub[cite: 1] | Platform & Tools Management | | **Databases** | MySQL[cite: 1] | NoSQL (Familiarity) | | **DevOps & Operations** | Process Automation, Workflow Optimization | Docker, CI/CD, GCP, Bazel, Apache Ant[cite: 1] | --- ## 💼 PROFESSIONAL EXPERIENCE ### 🏢 **Trellix** | 🚀 *Operations Engineer* 📍 *Bengaluru, Karnataka* | 📅 *Jul 2024 – Present*[cite: 1] * **⚡ Operational Transformation & ROI:** Architected and deployed a highly advanced automation workflow that successfully condensed 26 days of complex, manual engineering tasks into a streamlined, minutes-long process. * **🤖 AI & Infrastructure Optimization:** Collaborated seamlessly with engineering teams to optimize Retrieval-Augmented Generation (RAG) applications, ensuring high performance and accuracy for critical internal AI tools. * **🧠 LLM Solutions Deployment:** Spearheaded the development and enterprise-wide deployment of workflow solutions utilizing Large Language Models (LLMs) and Google AppScript[cite: 1], completely eliminating targeted manual workflows[cite: 1]. * **📈 Strategic Business Development:** Partnered with executive leadership to drive cross-functional business development, ensuring engineering capabilities aligned with corporate growth strategies. * **🛠️ Process Engineering:** Completely overhauled internal operational processes, deploying an advanced ticketing system that streamlined incident management and drastically reduced resolution friction[cite: 1]. * **🤝 Corporate Leadership (CSR):** Acted as the Corporate Social Responsibility Lead, orchestrating high-impact corporate events that fostered robust team engagement, internal culture, and community involvement[cite: 1]. --- ## 🏗️ STRATEGIC PROJECTS ### 👑 Executive Management RAG Intelligence Platform * **The Challenge:** Executive leadership lacked real-time visibility into cross-departmental tasks and policy adherence without requesting manual reports. * **The Solution:** Designed and engineered a specialized Retrieval-Augmented Generation (RAG) system serving as a centralized intelligence dashboard. * **Business Impact:** Enabled management to instantly access and visualize operational metrics, ongoing organizational tasks, and company policies, entirely removing the dependency on manual data aggregation from underlying engineering teams. ### 🐛 AutoBug Analyzer Engine[cite: 1] * **The Solution:** Developed an end-to-end automated bug resolution workflow seamlessly integrating Jira, GitHub, and GCP[cite: 1]. * **Business Impact:** Significantly reduced manual debugging and triage effort by automating ticket analysis, bug detection, source-code modification, and validation[cite: 1]. Deployed on GCP for scalable, enterprise-wide access[cite: 1]. ### 🔒 Automated Offboarding Compliance System[cite: 1] * **The Solution:** Engineered end-to-end employee offboarding automation using Java and JavaScript[cite: 1], automating critical system access removal, workflow execution, validations, and status tracking[cite: 1]. * **Business Impact:** Mitigated critical security risks, ensured absolute compliance, and reduced manual operational effort through robust API integrations and automated testing[cite: 1]. ### 📊 ML-Based Escalation Predictive Modeling[cite: 1] * **The Solution:** Developed Machine Learning models utilizing historical ticket data, executing data preprocessing and feature engineering to identify high-risk support tickets[cite: 1]. * **Business Impact:** Enabled teams to proactively prioritize critical issues and take preventive action before escalations occurred[cite: 1]. Reduced data processing time by 25% via Python automation scripts[cite: 1]. --- ## 🎓 EDUCATION & CERTIFICATIONS * 🎓 **Bachelor of Engineering** | GRT Institute Of Engineering & Technology, Anna University | Chennai, Tamil Nadu | *Jun 2023*[cite: 1] * **CGPA:** 8.7[cite: 1] * 🏆 **Java Full Stack Development Certification** | Jspiders | *8-Month Intensive Program*[cite: 1]
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nagashree%20M%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Operations%20Engineer%20%7C%20Automation%20%26%20AI%20Specialist&descAlignY=58&descAlign=50" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Operations;26+Days+of+Work+%E2%86%92+Minutes+of+Automation;RAG+Systems+%7C+LLMs+%7C+ML+Pipelines;Disciplined.+Driven.+Dependable." alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:subramanyamnagashree@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/Bangalore-India%20560068-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white"/> <img src="https://komarev.com/ghpvc/?username=nagashreems&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
+
+</div> <br/>
+🌟 About Me
+yaml
+role: "Operations Engineer & Automation Specialist"
+company: "Trellix"
+experience: "2+ years"
+superpower: "Turning slow, manual chaos into fast, reliable systems"
+core_values: ["Discipline", "Hardwork", "Ownership", "Consistency"]
+
+I engineer solutions that sit at the intersection of enterprise operations, AI/LLM systems, and process automation — the kind of work that quietly saves hundreds of hours across an organization.
+
+<table> <tr> <td width="50%" valign="top">
+
+🧭 Discipline Every workflow I build follows the same rule: measure twice, automate once. I document, test, and validate before anything touches production — because reliable systems are built on repeatable habits, not luck.
+
+💪 Hardwork & Ownership From late-stage debugging to end-to-end pipeline builds, I stay with a problem until it's genuinely solved — not just patched. I take full ownership of what I ship, from design to deployment to support.
+
+</td> <td width="50%" valign="top">
+
+🎯 Consistency I show up the same way every day — structured, focused, and outcome-driven. That consistency is why a 26-day manual process now runs in minutes, and why it still works reliably today.
+
+🤝 Collaboration Whether it's syncing with executive leadership on strategy or pairing with engineers on RAG infrastructure, I bridge the gap between technical depth and business priorities.
+
+</td> </tr> </table> <br/>
+🛠️ Tech Arsenal
+<div align="center">
+
+Languages & Scripting
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+AI, ML & Data
+
+<img src="https://img.shields.io/badge/RAG%20Systems-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/ML%20Models-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Predictive%20Analytics-0072C6?style=for-the-badge&logo=googleanalytics&logoColor=white"/> <img src="https://img.shields.io/badge/Feature%20Engineering-6E44FF?style=for-the-badge"/>
+
+Tools, APIs & Databases
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+Cloud & DevOps (foundational)
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Bazel-43A047?style=for-the-badge&logo=bazel&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge"/> </div> <br/>
+💼 Experience
+<table> <tr><td>
+🏢 Operations Engineer @ Trellix
+
+📅 Jul 2024 – Present  |  📍 Bangalore, India
+
+⚡ Engineering Efficiency: Architected an automated workflow that condensed 26 days of engineering work into a minutes-long process, drastically cutting operational overhead
+🧠 AI Infrastructure: Collaborated with engineering teams to optimize RAG applications and internal AI infrastructure for accuracy, performance, and reliability
+🤖 LLM Deployment: Spearheaded LLM-powered solutions with Google AppScript automation, now used org-wide to eliminate manual workflows
+📊 Strategic Growth: Partnered directly with executive leadership on business development, aligning engineering initiatives with company growth goals
+🎫 Process Overhaul: Redesigned internal operational processes, including a new ticketing system that streamlined incident management
+🌱 CSR Leadership: Served as Corporate Social Responsibility (CSR) Lead — planning company-wide events and community initiatives that strengthened team culture and employee engagement beyond day-to-day engineering work
+</td></tr> </table> <br/>
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🧠 Executive RAG Intelligence System
+
+A single source of truth for leadership.
+
+Designed and built a specialized RAG platform exclusively for executive leadership, powering a centralized dashboard that surfaces live organizational tasks, company policies, and operational metrics — removing all dependency on manual data aggregation from underlying teams.
+
+RAG LLMs Dashboard Python
+
+</td> <td width="50%" valign="top">
+🐛 AutoBug Analyzer Engine
+
+Debugging, automated end-to-end.
+
+Built an automated bug-resolution pipeline that integrates Jira, GitHub, and GCP to detect bugs, analyze tickets, and modify source code automatically — deployed on GCP for scalable, enterprise-wide use. Significantly cut manual triage effort.
+
+Jira GitHub API GCP Automation
+
+</td> </tr> <tr> <td width="50%" valign="top">
+🚪 Automated Offboarding Compliance System
+
+Security through automation.
+
+An end-to-end employee offboarding system built in Java and JavaScript that automates system-access removal, workflow execution, validations, and status tracking — ensuring absolute compliance and eliminating security gaps left by manual offboarding.
+
+Java JavaScript API Integration Testing
+
+</td> <td width="50%" valign="top">
+📈 ML-Based Escalation Predictive Modeling
+
+Predicting problems before they escalate.
+
+Trained ML models on historical ticket data — with full data preprocessing and feature engineering — to flag high-risk tickets before they escalate, cutting data processing time by 25% via Python automation.
+
+Python ML Feature Engineering Predictive Analytics
+
+</td> </tr> </table> <br/>
+🎓 Education & Certifications
+<div align="center">
+🎓 Degree	🏫 Institution	📊 Score	📅 Year
+Bachelor of Engineering	GRT Institute of Engineering & Technology, Anna University	CGPA 8.7	2023
+
+📜 Certification: Java Full Stack Development — Jspiders (8-Month Intensive Program)
+
+</div> <br/>
+🌱 Beyond the Code — CSR & Culture
+<div align="center">
+
+As the CSR Lead at Trellix, I organize corporate events and community initiatives that go beyond engineering — building team engagement, giving back to the community, and shaping a workplace culture rooted in the same discipline and consistency I bring to my technical work.
+
+</div> <br/> <div align="center">
+📫 Let's Build Something Great Together
+
+<a href="mailto:subramanyamnagashree@gmail.com"><img src="https://img.shields.io/badge/Email-subramanyamnagashree@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+📞 9361257229  |  📍 Bangalore, Karnataka, 560068
+
+<br/>
+
+<i>⚡ "Discipline turns effort into impact — one automated workflow at a time." ⚡</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> </div>
