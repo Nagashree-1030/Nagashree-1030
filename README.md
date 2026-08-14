@@ -1,23 +1,13 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nagashree%20M%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Operations%20Engineer%20%7C%20Automation%20%26%20AI%20Specialist&descAlignY=58&descAlign=50" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Operations;26+Days+of+Work+%E2%86%92+Minutes+of+Automation;RAG+Systems+%7C+LLMs+%7C+ML+Pipelines;Disciplined.+Driven.+Dependable." alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:subramanyamnagashree@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/Bangalore-India%20560068-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white"/> <img src="https://komarev.com/ghpvc/?username=nagashreems&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
-
-</div> <br/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=260&section=header&text=&fontSize=0" width="100%"/> </div> <div align="center">
+Nagashree M S
+</div> <p align="center"> <img src="https://img.shields.io/badge/Operations%20Engineer-6A11CB?style=flat-square"/> <img src="https://img.shields.io/badge/Automation%20%26%20AI%20Specialist-2575FC?style=flat-square"/> </p> <p align="center"> <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:subramanyamnagashree@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/Bangalore%2C%20India-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white"/> </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:8E2DE2&height=3&width=800"/> </div> <br/>
 🌟 About Me
-yaml
-role: "Operations Engineer & Automation Specialist"
-company: "Trellix"
-experience: "2+ years"
-superpower: "Turning slow, manual chaos into fast, reliable systems"
-core_values: ["Discipline", "Hardwork", "Ownership", "Consistency"]
 
-I engineer solutions that sit at the intersection of enterprise operations, AI/LLM systems, and process automation — the kind of work that quietly saves hundreds of hours across an organization.
+I engineer solutions at the intersection of enterprise operations, AI/LLM systems, and process automation — the kind of work that quietly saves hundreds of hours across an organization.
 
 <table> <tr> <td width="50%" valign="top">
 
-🧭 Discipline Every workflow I build follows the same rule: measure twice, automate once. I document, test, and validate before anything touches production — because reliable systems are built on repeatable habits, not luck.
+🧭 Discipline Every workflow I build follows the same rule: measure twice, automate once. I document, test, and validate before anything touches production — reliable systems are built on repeatable habits, not luck.
 
 💪 Hardwork & Ownership From late-stage debugging to end-to-end pipeline builds, I stay with a problem until it's genuinely solved — not just patched. I take full ownership of what I ship, from design to deployment to support.
 
@@ -25,7 +15,7 @@ I engineer solutions that sit at the intersection of enterprise operations, AI/L
 
 🎯 Consistency I show up the same way every day — structured, focused, and outcome-driven. That consistency is why a 26-day manual process now runs in minutes, and why it still works reliably today.
 
-🤝 Collaboration Whether it's syncing with executive leadership on strategy or pairing with engineers on RAG infrastructure, I bridge the gap between technical depth and business priorities.
+🤝 Collaboration Whether syncing with executive leadership on strategy or pairing with engineers on RAG infrastructure, I bridge the gap between technical depth and business priorities.
 
 </td> </tr> </table> <br/>
 🛠️ Tech Arsenal
@@ -37,7 +27,7 @@ Languages & Scripting
 
 AI, ML & Data
 
-<img src="https://img.shields.io/badge/RAG%20Systems-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/ML%20Models-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Predictive%20Analytics-0072C6?style=for-the-badge&logo=googleanalytics&logoColor=white"/> <img src="https://img.shields.io/badge/Feature%20Engineering-6E44FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/ML%20Models-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Predictive%20Analytics-0072C6?style=for-the-badge&logo=googleanalytics&logoColor=white"/> <img src="https://img.shields.io/badge/Feature%20Engineering-6E44FF?style=for-the-badge"/>
 
 Tools, APIs & Databases
 
@@ -117,10 +107,4 @@ As the CSR Lead at Trellix, I organize corporate events and community initiative
 
 📞 9361257229  |  📍 Bangalore, Karnataka, 560068
 
-<br/>
-
-<i>⚡ "Discipline turns effort into impact — one automated workflow at a time." ⚡</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> </div>
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=180&section=footer" width="100%"/> </div>
