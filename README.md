@@ -121,6 +121,16 @@ Understanding people, listening carefully, and communicating with respect.
 
 <br/>
 
+### 🧠 Emotional Intelligence
+
+I believe in **listening carefully, communicating clearly, respecting different perspectives, and working well with others**. I stay calm during challenges, understand people's concerns, and focus on finding solutions together.
+
+<br/>
+
+**Empathy • Communication • Adaptability • Teamwork • Respect**
+
+<br/>
+
 ### **Strong engineering is a combination of technical capability, responsibility, and understanding people.**
 
 </div>
@@ -178,8 +188,6 @@ Understanding people, listening carefully, and communicating with respect.
 ### 2 Years of Engineering & Operational Experience
 
 </div>
-
----
 
 <table>
 <tr>
@@ -308,7 +316,7 @@ Executive information platform
 ### From learning technology → to applying it → to creating measurable operational value
 
 ```text
-                              ╭────────────────────── 🚀 IMPACT
+                              ╭──────────────────────── 🚀 IMPACT
                          ╭────╯
                     ╭────╯
                ╭────╯
@@ -322,9 +330,13 @@ Executive information platform
  Knowledge   Solutions     Efficiency      Reliability     Impact
 ```
 
+<br/>
+
+<img src="https://quickchart.io/chart?c={type:'line',data:{labels:['Learn','Build','Automate','Improve','Scale'],datasets:[{label:'Engineering Growth',data:[20,38,58,78,100],fill:true,borderColor:'%234F46E5',backgroundColor:'rgba(79,70,229,0.18)',pointBackgroundColor:'%2306B6D4',pointBorderColor:'%23ffffff',pointRadius:6,borderWidth:4}]},options:{plugins:{legend:{display:false}},scales:{y:{min:0,max:100,grid:{color:'rgba(79,70,229,0.15)'}},x:{grid:{color:'rgba(6,182,212,0.12)'}}}}}" width="90%"/>
+
 </div>
 
-<br/>
+> **Note:** The graph represents a visual progression of the engineering journey, not measured performance percentages.
 
 <div align="center">
 
@@ -332,15 +344,9 @@ Executive information platform
 | :-------------------------: | :------------------------: | :--------------------: | :----------------: | :------------------: |
 | Understand new technologies | Convert ideas into systems | Remove repetitive work | Measure & optimize | Create lasting value |
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### 📌 A simple progression that defines my work
-
-**Understand the problem → Build the solution → Automate the process → Measure the outcome → Improve continuously**
+### **Understand the problem → Build the solution → Automate the process → Measure the outcome → Improve continuously**
 
 </div>
 
@@ -405,8 +411,6 @@ Developed an end-to-end workflow for access removal, validation, workflow execut
 **Using historical data to identify risk before escalation.**
 
 Developed ML models using ticket history, preprocessing, and feature engineering to identify potentially high-risk tickets.
-
-**Impact**
 
 ### ⚡ 25% reduction in data-processing time
 
@@ -492,15 +496,13 @@ Measure results and continuously optimize.
 
 <div align="center">
 
-# 🧠 Emotional Intelligence
+# 💡 Engineering Mindset
 
-### Technical skills create solutions.
+### **Technical skills create solutions.**
 
-### Emotional intelligence helps those solutions succeed.
+### **Good judgment makes them useful.**
 
-I value **active listening, clear communication, respect for different perspectives, constructive collaboration, and the ability to adapt to people and situations**.
-
-Whether working with engineers, operations teams, or leadership, I believe the best outcomes come from understanding both the **technical problem and the people affected by it**.
+### **Strong collaboration makes them successful.**
 
 </div>
 
@@ -637,8 +639,3 @@ Focus on measurable outcomes
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:312E81,100:111827&height=170&section=footer" width="100%"/>
 
 </div>
-
-
-
-
-
