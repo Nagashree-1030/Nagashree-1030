@@ -1,9 +1,3 @@
-Absolutely. I’d keep the overall structure from the previous version and make the **personal-values section more mature and executive-looking**, with exactly five qualities:
-
-**Discipline • Hardwork • Consistency • Ownership • Empathy**
-
-I’d also make the graph more professional by focusing on your **engineering journey and measurable impact**, rather than using made-up performance numbers.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:312E81,75:4F46E5,100:06B6D4&height=230&section=header&text=NAGASHREE%20M%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
