@@ -624,7 +624,7 @@ Focus on measurable outcomes
 
 <br/><br/>
 
-📧 **[subramanyamnagashree@gmail.com](mailto:subramanyamnagashree@gmail.com)**
+📧 **[subramaniyamnagashree@gmail.com](mailto:subramaniyamnagashree@gmail.com)**
 
 📍 **Bangalore, Karnataka, India**
 
