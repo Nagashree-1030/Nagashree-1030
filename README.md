@@ -1,232 +1,159 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#E8F1FF">
+# <font color="#174EA6">NAGASHREE M S</font>
 
-<h1><font color="#1557B0">NAGASHREE M S</font></h1>
+### <font color="#006B7A">Operations Engineer | AI/ML | Deployment | Production Support</font>
 
-<b><font color="#0B7285">Operations Engineer | AI/ML | Deployment | Production Support</font></b>
+**Engineering solutions that make operations simpler, faster and more reliable.**
 
-<br>
-
-<i>Engineering solutions that make operations simpler, faster and more reliable.</i>
-
-<br><br>
-
-<b>Bangalore, India</b>   •   <b>Trellix</b>   •   <b>2+ Years Experience</b>
-
-</td>
-</tr>
-</table>
+Bangalore, India • Trellix • 2+ Years Experience
 
 </div>
 
 ---
 
-## <font color="#1557B0">PROFESSIONAL SUMMARY</font>
+## <font color="#174EA6">👩‍💻 About Me</font>
 
 Operations Engineer with **2+ years of experience at Trellix**, working across **engineering, automation, AI/ML, deployments, production support and process improvement**.
 
-Strong in taking problems from **root-cause analysis to solution development, deployment and production support**, with a focus on reducing manual effort and improving operational efficiency.
+I focus on taking problems from **root-cause analysis to solution development, deployment and production support**, with an emphasis on reducing manual effort and improving operational efficiency.
+
+My approach is simple:
+
+> **Understand → Design → Build → Validate → Deploy → Support → Improve**
 
 ---
 
-## <font color="#0B7285">LEADERSHIP • CSR • EVENTS</font>
+## <font color="#006B7A">🚀 What I Do</font>
 
-* **CSR Board Member & Lead:** Coordinate CSR initiatives and collaborate with teams for successful execution.
-* **Event Organization:** Contributed to organizing **Kids' Day, Rewards & Recognition** and employee engagement activities.
-* **Team Collaboration:** Work with cross-functional teams, stakeholders and leadership to plan and execute initiatives.
-* **Ownership:** Take responsibility for activities from **planning and coordination to execution**.
-
----
-
-## <font color="#1557B0">CORE TECHNOLOGY</font>
-
-<table width="100%">
-<tr>
-<th bgcolor="#1557B0"><font color="white">ENGINEERING</font></th>
-<th bgcolor="#0B7285"><font color="white">AI / DATA</font></th>
-<th bgcolor="#198754"><font color="white">OPERATIONS</font></th>
-</tr>
-<tr>
-<td align="center">
-
-**Python • Java • JavaScript**
-**Docker • CI/CD**
-**REST APIs • GCP**
-**Jira • GitHub**
-
-</td>
-<td align="center">
-
-**LLMs • RAG**
-**Machine Learning**
-**Feature Engineering**
-**Data Processing**
-
-</td>
-<td align="center">
-
-**Production Support**
-**Troubleshooting**
-**Deployment**
-**Process Improvement**
-
-</td>
-</tr>
-</table>
+* **Engineering:** Develop practical solutions using Python, Java and JavaScript.
+* **Automation:** Reduce repetitive manual work through automation and intelligent workflows.
+* **AI/ML:** Build solutions using AI, LLMs, RAG and Machine Learning.
+* **Deployment:** Validate and deploy solutions to the correct targeted environments.
+* **Production Support:** Troubleshoot issues and perform root-cause analysis.
+* **Process Improvement:** Redesign workflows to make them faster, simpler and more reliable.
+* **Integration:** Work with Jira, GitHub, GCP and REST APIs.
+* **Ownership:** Take solutions from requirement understanding through deployment and support.
 
 ---
 
-# <font color="#1557B0">PROFESSIONAL EXPERIENCE</font>
+## <font color="#174EA6">🛠️ Technology</font>
 
-## <font color="#0B7285">Trellix — Operations Engineer</font>
-
-**July 2024 – Present | Bangalore, India**
-
-* **Engineering:** Develop Python, Java and JavaScript solutions to solve operational and engineering problems.
-* **Automation:** Build solutions that reduce repetitive manual work and improve team productivity.
-* **AI/ML:** Develop **AI, LLM and ML-based solutions** for investigation, prediction and operational efficiency.
-* **Deployment:** Validate solutions and ensure successful deployment to the **correct targeted environment** with required dependencies.
-* **Production Support:** Troubleshoot production issues, perform root-cause analysis and collaborate with engineering teams for resolution.
-* **Process Improvement:** Identify bottlenecks and redesign workflows to make them **faster, simpler and more reliable**.
-* **Integration:** Work with **Jira, GitHub, GCP and REST APIs** to build connected operational workflows.
-* **Ownership:** Manage solutions end-to-end from **requirement understanding → development → validation → deployment → support**.
-* **Collaboration:** Partner with engineering teams, stakeholders and leadership to deliver technical and operational solutions.
-
-### <font color="#198754">KEY IMPACT</font>
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#E8F5E9">
-
-<b><font color="#198754">26 DAYS → MINUTES</font></b>
-
-<br>
-
-Redesigned an engineering workflow, reducing approximately **26 days of effort to a minutes-long process**.
-
-</td>
-
-<td align="center" bgcolor="#E3F2FD">
-
-<b><font color="#1557B0">25% EFFICIENCY IMPROVEMENT</font></b>
-
-<br>
-
-Developed an ML-based operational solution that improved **data-processing efficiency by approximately 25%**.
-
-</td>
-</tr>
-</table>
+| Engineering | AI / Data           | Operations          |
+| :---------- | :------------------ | :------------------ |
+| Python      | LLMs                | Production Support  |
+| Java        | RAG                 | Troubleshooting     |
+| JavaScript  | Machine Learning    | Deployment          |
+| Docker      | Feature Engineering | Process Improvement |
+| CI/CD       | Data Processing     | Automation          |
+| REST APIs   | AI Solutions        | Root Cause Analysis |
+| GCP         |                     |                     |
+| Jira        |                     |                     |
+| GitHub      |                     |                     |
 
 ---
 
-# <font color="#1557B0">SELECTED PROJECTS</font>
+## <font color="#006B7A">💡 Key Impact</font>
 
-<table width="100%">
-<tr>
-<th bgcolor="#1557B0"><font color="white">PROJECT</font></th>
-<th bgcolor="#0B7285"><font color="white">WHAT I BUILT / CONTRIBUTION</font></th>
-<th bgcolor="#198754"><font color="white">IMPACT / TECHNOLOGY</font></th>
-</tr>
-
-<tr>
-<td><b>AutoBug Analyzer</b></td>
-<td>AI-powered workflow connecting <b>Jira → AI Analysis → GitHub Code → Bug Detection → Resolution</b> to reduce manual bug investigation.</td>
-<td><b>26 days → minutes</b><br><code>Python</code> <code>AI</code> <code>Jira</code> <code>GitHub API</code> <code>GCP</code></td>
-</tr>
-
-<tr>
-<td><b>Executive RAG Intelligence</b></td>
-<td>Centralized <b>RAG + LLM</b> solution for faster organizational knowledge retrieval and intelligent information processing.</td>
-<td><code>Python</code> <code>RAG</code> <code>LLMs</code> <code>Dashboard</code></td>
-</tr>
-
-<tr>
-<td><b>ML Escalation Prediction</b></td>
-<td>ML solution to identify <b>potentially high-risk tickets before escalation</b> using historical data and feature engineering.</td>
-<td><b>25% faster data processing</b><br><code>Python</code> <code>ML</code> <code>Feature Engineering</code></td>
-</tr>
-
-<tr>
-<td><b>Offboarding Compliance</b></td>
-<td>Automated workflow covering <b>access removal, validation, API integration and status tracking</b>.</td>
-<td><code>Java</code> <code>JavaScript</code> <code>APIs</code> <code>Testing</code></td>
-</tr>
-
-</table>
+| Impact                      | Result                                            |
+| :-------------------------- | :------------------------------------------------ |
+| **AutoBug Workflow**        | **26 days → minutes**                             |
+| **ML Operational Solution** | **25% improvement in data-processing efficiency** |
+| **AI / ML Automation**      | Reduced repetitive manual effort                  |
+| **Process Improvement**     | Faster and more reliable operational workflows    |
 
 ---
 
-# <font color="#0B7285">ENGINEERING APPROACH</font>
+## <font color="#174EA6">📌 Featured Projects</font>
 
-<div align="center">
+### 🔹 AutoBug Analyzer
 
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#E8F1FF"><b>UNDERSTAND</b></td>
-<td align="center">→</td>
-<td align="center" bgcolor="#E8F1FF"><b>DESIGN</b></td>
-<td align="center">→</td>
-<td align="center" bgcolor="#E3F2FD"><b>BUILD</b></td>
-<td align="center">→</td>
-<td align="center" bgcolor="#E3F2FD"><b>VALIDATE</b></td>
-<td align="center">→</td>
-<td align="center" bgcolor="#E8F5E9"><b>DEPLOY</b></td>
-<td align="center">→</td>
-<td align="center" bgcolor="#E8F5E9"><b>SUPPORT</b></td>
-<td align="center">→</td>
-<td align="center" bgcolor="#FFF3CD"><b>IMPROVE</b></td>
-</tr>
-</table>
+AI-powered workflow connecting:
 
-</div>
+**Jira → AI Analysis → GitHub Code → Bug Detection → Resolution**
 
-I focus not only on **fixing problems**, but on understanding their root cause and creating solutions that deliver **long-term reliability and efficiency**.
+**Technology:** `Python` `AI` `Jira` `GitHub API` `GCP`
+
+**Impact:** **Reduced approximately 26 days of effort to a minutes-long workflow.**
 
 ---
 
-# <font color="#1557B0">RECOGNITION</font>
+### 🔹 Executive RAG Intelligence
+
+Centralized intelligence solution using **Retrieval-Augmented Generation and LLMs** for faster organizational knowledge retrieval and intelligent information processing.
+
+**Technology:** `Python` `RAG` `LLMs` `Dashboard`
+
+---
+
+### 🔹 ML Escalation Prediction
+
+Machine Learning solution designed to identify **potentially high-risk tickets before escalation** using historical data and feature engineering.
+
+**Technology:** `Python` `Machine Learning` `Feature Engineering`
+
+**Impact:** **Approximately 25% faster data processing.**
+
+---
+
+### 🔹 Offboarding Compliance
+
+Automated operational workflow covering **access removal, validation, API integration and status tracking**.
+
+**Technology:** `Java` `JavaScript` `APIs` `Testing`
+
+---
+
+## <font color="#006B7A">🤝 Leadership, CSR & Events</font>
+
+* **CSR Board Member & Lead:** Coordinate CSR initiatives and collaborate with teams for execution.
+* **Event Organization:** Contributed to organizing **Kids' Day** and **Rewards & Recognition** activities.
+* **Employee Engagement:** Support initiatives that encourage collaboration and participation.
+* **Cross-functional Collaboration:** Work with engineering teams, stakeholders and leadership.
+* **Ownership:** Take responsibility from planning and coordination through execution.
+
+---
+
+## <font color="#174EA6">🏆 Recognition</font>
 
 * 🏆 **Lighthouse Award** — Recognized for performance, ownership and diverse contributions.
-* ⭐ **Multiple Recognitions** — Received rewards for contributions across technical, operational and organizational initiatives.
+* ⭐ **Multiple Recognitions** — Received rewards for technical, operational and organizational contributions.
 
 ---
 
-# <font color="#0B7285">EDUCATION</font>
+## <font color="#006B7A">🎓 Education</font>
 
-**Bachelor of Engineering — GRT Institute of Engineering & Technology, Anna University**
-**CGPA:** 8.7 / 10 | **Graduated:** 2023
+**Bachelor of Engineering**
+GRT Institute of Engineering & Technology — Anna University
 
-**Java Full Stack Development — Jspiders**
-8-Month Intensive Program
+**CGPA:** 8.7 / 10
+**Graduated:** 2023
+
+**Java Full Stack Development**
+Jspiders — 8-Month Intensive Program
+
+---
+
+## <font color="#174EA6">📈 Engineering Philosophy</font>
+
+> **I don't just ask how to fix a problem. I ask why it happened, how to prevent it, and how to make the entire process better.**
+
+I focus on building solutions that are **practical, scalable, reliable and impactful**.
+
+---
+
+## <font color="#006B7A">📫 Connect With Me</font>
+
+**Email:** [subramanyamnagashree@gmail.com](mailto:subramanyamnagashree@gmail.com)
+
+**LinkedIn:** linkedin.com/in/nagashree-m-s-b43a9a319
+
+**GitHub:** github.com/Nagashree-1030
 
 ---
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#E8F1FF">
-
-<h2><font color="#1557B0">NAGASHREE M S</font></h2>
-
-<b>Operations Engineer • AI/ML • Deployment • Production Support</b>
-
-<br><br>
-
-📧 <b>[subramanyamnagashree@gmail.com](mailto:subramanyamnagashree@gmail.com)</b>
-💼 <b>linkedin.com/in/nagashree-m-s-b43a9a319</b>
-💻 <b>github.com/Nagashree-1030</b>
-
-<br><br>
-
-<b><font color="#0B7285">ENGINEER • DEPLOY • SUPPORT • IMPROVE</font></b>
-
-</td>
-</tr>
-</table>
+### <font color="#174EA6">ENGINEER • DEPLOY • SUPPORT • IMPROVE</font>
 
 </div>
