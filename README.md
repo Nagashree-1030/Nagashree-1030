@@ -5,8 +5,8 @@
 <font size="2">Bangalore, India • Trellix • 2+ Years Experience</font>
 </div>
 
-## <font color="#174EA6" size="2">👩‍💻 About Me</font>
-<font size="2">Operations Engineer with **2+ years of experience at Trellix**, working across **engineering, automation, AI/ML, deployments, production support and process improvement**.
+## <font color="#174EA6" size="1">👩‍💻 About Me</font>
+<font size="1">Operations Engineer with **2+ years of experience at Trellix**, working across **engineering, automation, AI/ML, deployments, production support and process improvement**.
 
 I focus on taking problems from **root-cause analysis to solution development, deployment and production support**, with an emphasis on reducing manual effort and improving operational efficiency.</font>
 
