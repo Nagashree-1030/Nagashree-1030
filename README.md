@@ -209,7 +209,7 @@ I focus on building solutions that are **practical, scalable, reliable and impac
 
 ## <font color="#006B7A">📫 Connect With Me</font>
 
-**Email:** [subramanyamnagashree@gmail.com](mailto:subramanyamnagashree@gmail.com)
+**Email:** [subramaniyamnagashree@gmail.com](mailto:subramaniyamnagashree@gmail.com)
 **LinkedIn:** linkedin.com/in/nagashree-m-s-b43a9a319
 **GitHub:** github.com/Nagashree-1030
 
