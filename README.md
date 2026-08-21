@@ -1,14 +1,11 @@
 <div align="center">
-
 <h2><font color="#174EA6">NAGASHREE M S</font></h2>
 <h4><font color="#006B7A">Operations Engineer | AI/ML | Deployment | Production Support</font></h4>
 <font size="2"><b>Engineering solutions that make operations simpler, faster and more reliable.</b></font><br>
 <font size="2">Bangalore, India • Trellix • 2+ Years Experience</font>
-
 </div>
 
 ## <font color="#174EA6" size="4">👩‍💻 About Me</font>
-
 <font size="2">Operations Engineer with **2+ years of experience at Trellix**, working across **engineering, automation, AI/ML, deployments, production support and process improvement**.
 
 I focus on taking problems from **root-cause analysis to solution development, deployment and production support**, with an emphasis on reducing manual effort and improving operational efficiency.</font>
@@ -16,7 +13,6 @@ I focus on taking problems from **root-cause analysis to solution development, d
 > **Understand → Design → Build → Validate → Deploy → Support → Improve**
 
 ## <font color="#006B7A" size="4">🚀 What I Do</font>
-
 <font size="2">
 
 * **Engineering:** Develop practical solutions using Python, Java and JavaScript.
@@ -27,11 +23,8 @@ I focus on taking problems from **root-cause analysis to solution development, d
 * **Process Improvement:** Redesign workflows to make them faster, simpler and more reliable.
 * **Integration:** Work with Jira, GitHub, GCP and REST APIs.
 * **Ownership:** Take solutions from requirement understanding through deployment and support.
-
 </font>
-
 ## <font color="#174EA6" size="4">🛠️ Technology</font>
-
 <table align="center" cellspacing="0" cellpadding="2">
 <tr>
 <th bgcolor="#DCE6F7"><font color="#0B3D91" size="2"><b>Engineering</b></font></th>
@@ -70,9 +63,7 @@ Production Support • Troubleshooting • Deployment • Automation • Process
 | **ML Operational Solution** | **25% improvement in data-processing efficiency** |
 | **AI / ML Automation** | Reduced repetitive manual effort |
 | **Process Improvement** | Faster and more reliable operational workflows |
-
 </font>
-
 ## <font color="#174EA6" size="4">📌 Featured Projects</font>
 
 <table width="100%" cellspacing="0" cellpadding="2">
@@ -158,7 +149,6 @@ Improved workflow consistency and tracking
 </table>
 
 ## <font color="#006B7A" size="4">🤝 Leadership, CSR & Events</font>
-
 <font size="2">
 
 * **CSR Board Member & Lead:** Coordinate CSR initiatives and collaborate with teams for execution.
@@ -166,20 +156,15 @@ Improved workflow consistency and tracking
 * **Employee Engagement:** Support initiatives that encourage collaboration and participation.
 * **Cross-functional Collaboration:** Work with engineering teams, stakeholders and leadership.
 * **Ownership:** Take responsibility from planning and coordination through execution.
-
 </font>
-
 ## <font color="#174EA6" size="4">🏆 Recognition</font>
 
 <font size="2">
 
 * 🏆 **Lighthouse Award** — Recognized for performance, ownership and diverse contributions.
 * ⭐ **Multiple Recognitions** — Received rewards for technical, operational and organizational contributions.
-
 </font>
-
 ## <font color="#006B7A" size="4">🎓 Education</font>
-
 <font size="2">
 
 **Bachelor of Engineering**  
@@ -189,17 +174,12 @@ GRT Institute of Engineering & Technology — Anna University
 
 **Java Full Stack Development**  
 Jspiders — 8-Month Intensive Program
-
 </font>
-
 ## <font color="#174EA6" size="4">📈 Engineering Philosophy</font>
 
 > **I don't just ask how to fix a problem. I ask why it happened, how to prevent it, and how to make the entire process better.**
-
 <font size="2">I focus on building solutions that are **practical, scalable, reliable and impactful**.</font>
-
 ## <font color="#006B7A" size="4">📫 Connect With Me</font>
-
 <font size="2">
 
 **Email:** [subramaniyamnagashree@gmail.com](mailto:subramaniyamnagashree@gmail.com)  
