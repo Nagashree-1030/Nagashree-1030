@@ -1,257 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:312E81,75:4F46E5,100:06B6D4&height=230&section=header&text=NAGASHREE%20M%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:312E81,75:4F46E5,100:06B6D4&height=210&section=header&text=NAGASHREE%20M%20S&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+
+### Operations Engineer • AI Solutions • Engineering Operations
+
+<img src="https://img.shields.io/badge/OPERATIONS%20ENGINEER-4F46E5?style=for-the-badge&labelColor=111827&color=06B6D4"/>
+<img src="https://img.shields.io/badge/2%2B%20YEARS%20EXPERIENCE-312E81?style=for-the-badge&labelColor=111827&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/BANGALORE%2C%20INDIA-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPERATIONS%20ENGINEER-4F46E5?style=for-the-badge&labelColor=111827&color=06B6D4"/>
-
-<br/><br/>
-
 <a href="mailto:subramanyamnagashree@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/nagashree-m-s-b43a9a319">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Bangalore%2C%20India-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="https://github.com/Nagashree-1030">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
-
-<div align="center">
-
-## Engineering Operations • Intelligent Automation • AI-Driven Solutions
-
-</div>
-
-<table>
-<tr>
-<td width="52%" valign="top">
 
 ## 👋 About Me
 
-I am an **Operations Engineer with 2 years of professional experience at Trellix**, focused on improving enterprise operations through automation, AI, and engineering-driven process transformation.
+I am an **Operations Engineer with 2+ years of professional experience at Trellix**, focused on improving enterprise operations through engineering, AI, intelligent workflows, and process transformation.
 
-My work involves taking operational challenges from **problem identification through design, implementation, validation, and adoption**.
+I enjoy taking operational problems from **problem identification → solution design → implementation → validation → adoption**.
 
-I enjoy solving problems where engineering can create measurable business value — whether that means reducing weeks of manual effort, improving operational workflows, or applying AI to make information and decision-making more accessible.
+My focus is on building practical solutions that reduce manual effort, improve reliability, and create measurable business value.
 
-</td>
-
-<td width="48%" valign="top">
-
-## 🎯 What Drives Me
-
-* **Problem Solving** — Breaking complex problems into practical and scalable solutions.
-* **Continuous Learning** — Learning new technologies by applying them to real engineering challenges.
-* **Meaningful Impact** — Measuring success by the value a solution creates.
-* **Ownership** — Taking responsibility from the initial idea through implementation and support.
-* **Collaboration** — Working effectively across engineering, operations, and leadership teams.
-* **Continuous Improvement** — Looking for opportunities to make systems simpler, faster, and more reliable.
-
-</td>
-</tr>
-</table>
+> **My engineering philosophy:** Understand the problem deeply, build thoughtfully, deliver reliably, and continuously improve.
 
 ---
 
-<div align="center">
+## 🛠️ Technical Skills
 
-# 💎 PROFESSIONAL VALUES
+### Programming & Scripting
 
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-### 🎯
-
-**DISCIPLINE**
-
-Consistent execution with attention to detail and quality.
-
-</td>
-
-<td align="center" width="20%">
-
-### 💪
-
-**HARDWORK**
-
-Putting in the effort required to solve difficult problems properly.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🔄
-
-**CONSISTENCY**
-
-Building reliable results through dependable execution.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🤝
-
-**OWNERSHIP**
-
-Taking responsibility for outcomes, not just tasks.
-
-</td>
-
-<td align="center" width="20%">
-
-### 💙
-
-**EMPATHY**
-
-Understanding people, listening carefully, and communicating with respect.
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-### 🧠 Emotional Intelligence
-
-I believe in **listening carefully, communicating clearly, respecting different perspectives, and working well with others**. I stay calm during challenges, understand people's concerns, and focus on finding solutions together.
-
-<br/>
-
-**Empathy • Communication • Adaptability • Teamwork • Respect**
-
-<br/>
-
-### **Strong engineering is a combination of technical capability, responsibility, and understanding people.**
-
-</div>
-
----
-
-# 🛠️ Technical Expertise
-
-<div align="center">
-
-## 🟣 Hands-On Experience
-
-<br/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
-<br/><br/>
+### AI & Machine Learning
 
+<p>
 <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG%20Systems-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF1493?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-</div>
+### Engineering & Infrastructure
 
-<br/>
-
-<div align="center">
-
-## 🔵 Foundational Knowledge
-
+<p>
 <img src="https://img.shields.io/badge/Docker%20Basics-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI%2FCD%20Basics-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deployment%20Basics-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bazel%20Basics-43A047?style=for-the-badge&logo=bazel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Ant%20Basics-A81C7D?style=for-the-badge"/>
+</p>
 
-</div>
+### Platforms & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
+</p>
 
 ---
 
 # 💼 Professional Experience
 
-<div align="center">
-
 ## 🏢 Trellix
 
-### Operations Engineer
+**Operations Engineer**
+📍 Bangalore, India | **July 2024 – Present**
 
-**July 2024 – Present · Bangalore, India**
+### Key Contributions
 
-### 2 Years of Engineering & Operational Experience
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ Engineering Efficiency
-
-Architected an automated workflow that transformed a process requiring approximately **26 days of engineering effort into a minutes-long workflow**.
-
-This significantly reduced manual effort and demonstrated how operational processes can be redesigned through engineering.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Automation
-
-Designed and implemented **LLM-powered automation solutions using Google Apps Script**, helping eliminate repetitive workflows and improve operational efficiency.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 RAG & AI Infrastructure
-
-Collaborated with engineering teams on **RAG applications and internal AI infrastructure**, contributing to reliability, accuracy, and practical enterprise AI adoption.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎫 Operational Transformation
-
-Improved internal operational processes, including ticketing and incident-management workflows, making processes more structured, traceable, and efficient.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 Business & Engineering Alignment
-
-Worked with **executive leadership and cross-functional stakeholders** to understand business priorities and connect engineering initiatives with organizational objectives.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌱 Leadership & Culture
-
-Served as **CSR Lead**, coordinating initiatives and company activities while collaborating with people across different teams and functions.
-
-</td>
-
-</tr>
-</table>
+| Area                     | Contribution                                                                                                             |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| ⚡ Engineering Efficiency | Transformed a workflow requiring approximately **26 days of engineering effort into a minutes-long process**.            |
+| 🤖 AI Solutions          | Built **LLM-powered workflows using Google Apps Script** to reduce repetitive operational work.                          |
+| 🧠 RAG & AI              | Collaborated with engineering teams on **RAG applications and internal AI infrastructure**.                              |
+| 🎫 Operations            | Improved ticketing and incident-management workflows to make processes more structured and traceable.                    |
+| 📊 Business Alignment    | Worked with executive leadership and cross-functional teams to connect engineering initiatives with business priorities. |
+| 🤝 Leadership            | Served as **CSR Lead**, coordinating initiatives and collaborating across teams.                                         |
 
 ---
 
@@ -264,41 +108,41 @@ Served as **CSR Lead**, coordinating initiatives and company activities while co
 
 <td align="center" width="25%">
 
-### ⚡ 26 Days
+## ⚡ 26 Days
 
-**→ Minutes**
+### → Minutes
 
-Engineering workflow automation
-
-</td>
-
-<td align="center" width="25%">
-
-### 📉 25%
-
-**Reduction**
-
-Data-processing time
+Reduced engineering effort through workflow transformation
 
 </td>
 
 <td align="center" width="25%">
 
-### 🤖 AI
+## 📉 25%
 
-**Automation**
+### Reduction
 
-LLM-powered workflows
+Data-processing time improvement
 
 </td>
 
 <td align="center" width="25%">
 
-### 🧠 RAG
+## 🤖 LLM
 
-**Intelligence**
+### Powered
 
-Executive information platform
+Intelligent operational workflows
+
+</td>
+
+<td align="center" width="25%">
+
+## 🧠 RAG
+
+### Intelligence
+
+Centralized information access
 
 </td>
 
@@ -309,122 +153,124 @@ Executive information platform
 
 ---
 
-# 📈 Engineering Growth
-
-<div align="center">
-
-### From learning technology → to applying it → to creating measurable operational value
-
-```text
-                              ╭──────────────────────── 🚀 IMPACT
-                         ╭────╯
-                    ╭────╯
-               ╭────╯
-          ╭────╯
-     ╭────╯
-╭────╯
-└─────────────────────────────────────────────────────────────►
-
- LEARN        BUILD        AUTOMATE        IMPROVE        SCALE
-   │            │             │               │              │
- Knowledge   Solutions     Efficiency      Reliability     Impact
-```
-
-<br/>
-
-<img src="https://quickchart.io/chart?c={type:'line',data:{labels:['Learn','Build','Automate','Improve','Scale'],datasets:[{label:'Engineering Growth',data:[20,38,58,78,100],fill:true,borderColor:'%234F46E5',backgroundColor:'rgba(79,70,229,0.18)',pointBackgroundColor:'%2306B6D4',pointBorderColor:'%23ffffff',pointRadius:6,borderWidth:4}]},options:{plugins:{legend:{display:false}},scales:{y:{min:0,max:100,grid:{color:'rgba(79,70,229,0.15)'}},x:{grid:{color:'rgba(6,182,212,0.12)'}}}}}" width="90%"/>
-
-</div>
-
-> **Note:** The graph represents a visual progression of the engineering journey, not measured performance percentages.
-
-<div align="center">
-
-|           🌱 Learn          |          🛠️ Build         |       ⚙️ Automate      |     📊 Improve     |       🚀 Scale       |
-| :-------------------------: | :------------------------: | :--------------------: | :----------------: | :------------------: |
-| Understand new technologies | Convert ideas into systems | Remove repetitive work | Measure & optimize | Create lasting value |
-
-<br/>
-
-### **Understand the problem → Build the solution → Automate the process → Measure the outcome → Improve continuously**
-
-</div>
-
----
-
-# 🚀 Selected Engineering Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
+# 🚀 Featured Projects
 
 ## 🧠 Executive RAG Intelligence System
 
-**A centralized intelligence layer for executive leadership.**
+A centralized intelligence platform designed to make organizational information easier to access and understand.
 
-Designed and built a specialized RAG platform that brings together organizational tasks, policies, and operational information into a centralized dashboard.
+### What I Built
+
+* Integrated organizational information into a centralized platform.
+* Applied **Retrieval-Augmented Generation (RAG)** concepts.
+* Used LLM-based processing to make information easier to search and understand.
+* Designed the solution around practical executive and operational use cases.
+* Focused on improving information accessibility and decision-making.
 
 **Technology**
 
-`RAG` `LLMs` `Python` `Dashboard`
+`Python` `RAG` `LLMs` `Dashboard`
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ## 🐛 AutoBug Analyzer Engine
 
-**Automated analysis across the engineering lifecycle.**
+An engineering solution designed to reduce the time required to analyze and resolve software bugs.
 
-Built an automation pipeline integrating Jira, GitHub, and GCP to analyze bugs, tickets, and source code while reducing manual triage effort.
+### Problem
+
+The traditional bug investigation process could require approximately **26 days of engineering effort**.
+
+### Solution
+
+Built a workflow that connects:
+
+```text
+Jira
+  │
+  ▼
+Ticket Analysis
+  │
+  ▼
+Attachment & Bug Analysis
+  │
+  ▼
+GitHub Code Comparison
+  │
+  ▼
+Bug Identification
+  │
+  ▼
+Suggested Resolution
+```
+
+### Result
+
+The workflow reduced the analysis process from **weeks of manual effort to minutes**.
 
 **Technology**
 
-`Jira` `GitHub API` `GCP` `Automation`
+`Jira` `GitHub API` `GCP` `Python` `AI`
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ## 🚪 Automated Offboarding Compliance
 
-**Reducing operational and security gaps through automation.**
+An operational workflow designed to improve access-removal processes and reduce security and compliance gaps.
 
-Developed an end-to-end workflow for access removal, validation, workflow execution, and status tracking.
+### Key Areas
+
+* Access removal
+* Validation
+* Workflow execution
+* Status tracking
+* API integration
+* Process monitoring
 
 **Technology**
 
 `Java` `JavaScript` `APIs` `Testing`
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ## 📈 ML Escalation Prediction
 
-**Using historical data to identify risk before escalation.**
+A machine-learning solution designed to identify potentially high-risk tickets before they become escalations.
 
-Developed ML models using ticket history, preprocessing, and feature engineering to identify potentially high-risk tickets.
+### Approach
 
-### ⚡ 25% reduction in data-processing time
+```text
+Historical Ticket Data
+        │
+        ▼
+Data Preprocessing
+        │
+        ▼
+Feature Engineering
+        │
+        ▼
+ML Model
+        │
+        ▼
+Risk Prediction
+        │
+        ▼
+Early Action
+```
 
-`Python` `ML` `Feature Engineering`
+### Result
 
-</td>
+Achieved approximately **25% reduction in data-processing time** through improved data-processing workflows.
 
-</tr>
+**Technology**
 
-</table>
+`Python` `Machine Learning` `Feature Engineering` `Data Processing`
 
 ---
 
 # 🧭 Engineering Approach
+
+<div align="center">
 
 <table>
 <tr>
@@ -461,7 +307,7 @@ Choose a practical and maintainable solution.
 
 **BUILD**
 
-Implement, integrate, and automate.
+Implement, integrate, and test.
 
 </td>
 
@@ -473,7 +319,7 @@ Implement, integrate, and automate.
 
 **VALIDATE**
 
-Test reliability, accuracy, and edge cases.
+Verify reliability, accuracy, and edge cases.
 
 </td>
 
@@ -492,64 +338,45 @@ Measure results and continuously optimize.
 </tr>
 </table>
 
----
-
-<div align="center">
-
-# 💡 Engineering Mindset
-
-### **Technical skills create solutions.**
-
-### **Good judgment makes them useful.**
-
-### **Strong collaboration makes them successful.**
-
 </div>
 
----
-
-# 🎓 Education & Certification
-
-<div align="center">
-
-### 🎓 Bachelor of Engineering
-
-**GRT Institute of Engineering & Technology — Anna University**
-
-**CGPA: 8.7 / 10 · 2023**
-
-<br/>
-
-### 📜 Java Full Stack Development
-
-**Jspiders · 8-Month Intensive Program**
-
-</div>
+```text
+Understand
+    ↓
+Design
+    ↓
+Build
+    ↓
+Validate
+    ↓
+Improve
+    ↓
+Scale
+```
 
 ---
 
-# 🌱 Beyond Engineering
+# 💎 Professional Values
 
-<div align="center">
-
-### CSR • Collaboration • Leadership • Culture
-
-As **CSR Lead at Trellix**, I have had the opportunity to work beyond technical responsibilities — coordinating initiatives, collaborating with colleagues across teams, and contributing to a stronger workplace culture.
-
-I value environments where people can **communicate openly, support one another, and work toward shared outcomes**.
-
-</div>
+| Value                         | What It Means                                                               |
+| ----------------------------- | --------------------------------------------------------------------------- |
+| 🎯 **Discipline**             | Consistent execution with attention to quality and detail.                  |
+| 💪 **Hard Work**              | Putting in the effort required to solve difficult problems properly.        |
+| 🔄 **Consistency**            | Building reliable results through dependable execution.                     |
+| 🤝 **Ownership**              | Taking responsibility for outcomes, not just assigned tasks.                |
+| 💙 **Empathy**                | Listening carefully and communicating with respect.                         |
+| 🚀 **Continuous Improvement** | Always looking for ways to make systems simpler, faster, and more reliable. |
 
 ---
 
-<div align="center">
+# 🧠 What I Bring
 
-# 💙 What I Bring
+<div align="center">
 
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### 🧠 Technical Thinking
 
@@ -557,7 +384,7 @@ Systematic problem solving
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### ⚙️ Operational Thinking
 
@@ -565,7 +392,7 @@ Efficiency & scalability
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### 🤝 People Skills
 
@@ -573,7 +400,7 @@ Communication & collaboration
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 ### 📊 Business Thinking
 
@@ -584,27 +411,93 @@ Focus on measurable outcomes
 </tr>
 </table>
 
-<br/>
-
-### **I don't just look at what needs to be done — I look at how it can be done better.**
-
 </div>
+
+> **I don't just look at what needs to be done — I look at how it can be done better.**
 
 ---
 
+# 🎓 Education
+
+### 🎓 Bachelor of Engineering
+
+**GRT Institute of Engineering & Technology — Anna University**
+
+**CGPA: 8.7 / 10 | 2023**
+
+### 📜 Java Full Stack Development
+
+**Jspiders**
+
+8-Month Intensive Program
+
+---
+
+# 🌱 Leadership & Collaboration
+
+## CSR Lead — Trellix
+
+Alongside my technical responsibilities, I served as **CSR Lead**, coordinating initiatives and collaborating with colleagues across different teams.
+
+This experience strengthened my ability to:
+
+* Communicate with different stakeholders
+* Coordinate activities
+* Work across teams
+* Understand different perspectives
+* Take ownership of initiatives
+* Contribute to a positive workplace culture
+
+I believe strong engineering is not only about technical capability.
+
+It is also about **communication, responsibility, collaboration, and understanding people**.
+
+---
+
+# 📈 My Engineering Journey
+
+```text
+              🚀 IMPACT
+                  ▲
+                  │
+              ┌───┴───┐
+              │ SCALE │
+              └───┬───┘
+                  │
+             ┌────┴────┐
+             │ IMPROVE │
+             └────┬────┘
+                  │
+             ┌────┴─────┐
+             │   BUILD  │
+             └────┬─────┘
+                  │
+             ┌────┴─────┐
+             │  LEARN   │
+             └──────────┘
+```
+
+### My Focus
+
+**Learn → Build → Improve → Measure → Scale**
+
+I continuously look for opportunities where engineering can solve real operational problems and create measurable value.
+
+---
+
+# 💡 Engineering Mindset
+
 <div align="center">
 
-# ✨ Professional Philosophy
+### Technical skills create solutions.
 
-### **Understand deeply.**
+### Good judgment makes them useful.
 
-### **Build thoughtfully.**
+### Strong collaboration makes them successful.
 
-### **Deliver reliably.**
+<br/>
 
-### **Learn continuously.**
-
-### **Create meaningful impact.**
+**Understand deeply. • Build thoughtfully. • Deliver reliably. • Learn continuously.**
 
 </div>
 
@@ -618,13 +511,15 @@ Focus on measurable outcomes
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
- 
-
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/nagashree-m-s-b43a9a319">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://github.com/Nagashree-1030">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
 
 📧 **[subramaniyamnagashree@gmail.com](mailto:subramaniyamnagashree@gmail.com)**
 
@@ -632,10 +527,15 @@ Focus on measurable outcomes
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:312E81,100:111827&height=170&section=footer" width="100%"/>
+### ⭐ Thanks for visiting my GitHub profile!
+
+**Engineering • Operations • AI • Continuous Improvement**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:312E81,100:111827&height=130&section=footer" width="100%"/>
 
 </div>
+
