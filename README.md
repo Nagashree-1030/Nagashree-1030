@@ -6,7 +6,7 @@
 
 <b>Engineering solutions that make operations simpler, faster and more reliable.</b>
 
-<br><br>
+<br>
 
 Bangalore, India • Trellix • 2+ Years Experience
 
@@ -41,33 +41,39 @@ My approach is simple:
 
 ## <font color="#174EA6">🛠️ Technology</font>
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="5">
 <tr>
-<th bgcolor="#174EA6"><font color="white">Engineering</font></th>
-<th bgcolor="#006B7A"><font color="white">AI / Data</font></th>
-<th bgcolor="#1B7F5A"><font color="white">Operations</font></th>
+<th bgcolor="#DCE6F7"><font color="#174EA6" size="3">Engineering</font></th>
+<th bgcolor="#D9EFF2"><font color="#006B7A" size="3">AI / Data</font></th>
+<th bgcolor="#DDF0E6"><font color="#1B7F5A" size="3">Operations</font></th>
 </tr>
 
 <tr>
 <td align="center">
+<font size="2">
 Python • Java<br>
 JavaScript • Docker<br>
 CI/CD • REST APIs<br>
 GCP • Jira • GitHub
+</font>
 </td>
 
 <td align="center">
+<font size="2">
 LLMs • RAG<br>
 Machine Learning<br>
 Feature Engineering<br>
 Data Processing • AI
+</font>
 </td>
 
 <td align="center">
+<font size="2">
 Production Support<br>
 Troubleshooting<br>
 Deployment<br>
 Automation • Process Improvement
+</font>
 </td>
 </tr>
 </table>
@@ -87,12 +93,12 @@ Automation • Process Improvement
 
 ## <font color="#174EA6">📌 Featured Projects</font>
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="5">
 <tr>
-<th bgcolor="#174EA6"><font color="white">Project</font></th>
-<th bgcolor="#006B7A"><font color="white">Description</font></th>
-<th bgcolor="#1B7F5A"><font color="white">Technology</font></th>
-<th bgcolor="#8A5A00"><font color="white">Impact</font></th>
+<th bgcolor="#DCE6F7"><font color="#174EA6" size="3">Project</font></th>
+<th bgcolor="#D9EFF2"><font color="#006B7A" size="3">Description</font></th>
+<th bgcolor="#DDF0E6"><font color="#1B7F5A" size="3">Technology</font></th>
+<th bgcolor="#F4E6C4"><font color="#8A5A00" size="3">Impact</font></th>
 </tr>
 
 <tr>
@@ -204,9 +210,7 @@ I focus on building solutions that are **practical, scalable, reliable and impac
 ## <font color="#006B7A">📫 Connect With Me</font>
 
 **Email:** [subramanyamnagashree@gmail.com](mailto:subramanyamnagashree@gmail.com)
-
 **LinkedIn:** linkedin.com/in/nagashree-m-s-b43a9a319
-
 **GitHub:** github.com/Nagashree-1030
 
 ---
