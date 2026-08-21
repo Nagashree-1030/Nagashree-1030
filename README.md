@@ -1,18 +1,23 @@
-<div align="center">
-<h2><font color="#174EA6">NAGASHREE M S</font></h2>
-<h4><font color="#006B7A">Operations Engineer | AI/ML | Deployment | Production Support</font></h4>
+<div align="center" style="margin:0; padding:0;">
+
+<h2 style="margin:0; padding:0;"><font color="#174EA6">NAGASHREE M S</font></h2>
+<h4 style="margin:2px 0; padding:0;"><font color="#006B7A">Operations Engineer | AI/ML | Deployment | Production Support</font></h4>
 <font size="2"><b>Engineering solutions that make operations simpler, faster and more reliable.</b></font><br>
 <font size="2">Bangalore, India • Trellix • 2+ Years Experience</font>
+
 </div>
-## <font color="#174EA6" size="1">👩‍💻 About Me</font>
+
+<h4 style="margin:4px 0 2px 0; padding:0;"><font color="#174EA6">👩‍💻 About Me</font></h4>
+
 <font size="1">Operations Engineer with **2+ years of experience at Trellix**, working across **engineering, automation, AI/ML, deployments, production support and process improvement**.
 
 I focus on taking problems from **root-cause analysis to solution development, deployment and production support**, with an emphasis on reducing manual effort and improving operational efficiency.</font>
 
 > **Understand → Design → Build → Validate → Deploy → Support → Improve**
 
-## <font color="#006B7A" size="4">🚀 What I Do</font>
-<font size="2">
+<h4 style="margin:4px 0 2px 0; padding:0;"><font color="#006B7A">🚀 What I Do</font></h4>
+
+<font size="1">
 
 * **Engineering:** Develop practical solutions using Python, Java and JavaScript.
 * **Automation:** Reduce repetitive manual work through automation and intelligent workflows.
@@ -22,14 +27,16 @@ I focus on taking problems from **root-cause analysis to solution development, d
 * **Process Improvement:** Redesign workflows to make them faster, simpler and more reliable.
 * **Integration:** Work with Jira, GitHub, GCP and REST APIs.
 * **Ownership:** Take solutions from requirement understanding through deployment and support.
+
 </font>
 
-## <font color="#174EA6" size="4">🛠️ Technology</font>
-<table align="center" cellspacing="0" cellpadding="2">
+<h4 style="margin:4px 0 2px 0; padding:0;"><font color="#174EA6">🛠️ Technology</font></h4>
+
+<table align="center" width="100%" cellspacing="0" cellpadding="2" style="margin:0; padding:0;">
 <tr>
-<th bgcolor="#DCE6F7"><font color="#0B3D91" size="2"><b>Engineering</b></font></th>
-<th bgcolor="#D9EFF2"><font color="#006B7A" size="2"><b>AI / Data</b></font></th>
-<th bgcolor="#DDF0E6"><font color="#1B7F5A" size="2"><b>Operations</b></font></th>
+<th bgcolor="#DCE6F7"><font color="#0B3D91" size="1"><b>Engineering</b></font></th>
+<th bgcolor="#D9EFF2"><font color="#006B7A" size="1"><b>AI / Data</b></font></th>
+<th bgcolor="#DDF0E6"><font color="#1B7F5A" size="1"><b>Operations</b></font></th>
 </tr>
 
 <tr>
@@ -53,9 +60,9 @@ Production Support • Troubleshooting • Deployment • Automation • Process
 </tr>
 </table>
 
-## <font color="#006B7A" size="4">💡 Key Impact</font>
+<h4 style="margin:4px 0 2px 0; padding:0;"><font color="#006B7A">💡 Key Impact</font></h4>
 
-<font size="2">
+<font size="1">
 
 | Impact | Result |
 | :--- | :--- |
@@ -63,16 +70,17 @@ Production Support • Troubleshooting • Deployment • Automation • Process
 | **ML Operational Solution** | **25% improvement in data-processing efficiency** |
 | **AI / ML Automation** | Reduced repetitive manual effort |
 | **Process Improvement** | Faster and more reliable operational workflows |
+
 </font>
 
-## <font color="#174EA6" size="4">📌 Featured Projects</font>
+<h4 style="margin:4px 0 2px 0; padding:0;"><font color="#174EA6">📌 Featured Projects</font></h4>
 
-<table width="100%" cellspacing="0" cellpadding="2">
+<table width="100%" cellspacing="0" cellpadding="2" style="margin:0; padding:0;">
 <tr>
-<th bgcolor="#DCE6F7"><font color="#0B3D91" size="2"><b>Project</b></font></th>
-<th bgcolor="#D9EFF2"><font color="#006B7A" size="2"><b>Description</b></font></th>
-<th bgcolor="#DDF0E6"><font color="#1B7F5A" size="2"><b>Technology</b></font></th>
-<th bgcolor="#F4E6C4"><font color="#8A5A00" size="2"><b>Impact</b></font></th>
+<th bgcolor="#DCE6F7"><font color="#0B3D91" size="1"><b>Project</b></font></th>
+<th bgcolor="#D9EFF2"><font color="#006B7A" size="1"><b>Description</b></font></th>
+<th bgcolor="#DDF0E6"><font color="#1B7F5A" size="1"><b>Technology</b></font></th>
+<th bgcolor="#F4E6C4"><font color="#8A5A00" size="1"><b>Impact</b></font></th>
 </tr>
 
 <tr>
@@ -82,14 +90,8 @@ Production Support • Troubleshooting • Deployment • Automation • Process
 AI-powered workflow connecting <b>Jira → AI Analysis → GitHub Code → Bug Detection → Resolution</b> to reduce manual bug investigation.
 </font>
 </td>
-<td>
-<font size="1">
-Python, AI, Jira, GitHub API, GCP
-</font>
-</td>
-<td>
-<font size="1"><b>26 days → minutes</b></font>
-</td>
+<td><font size="1">Python, AI, Jira, GitHub API, GCP</font></td>
+<td><font size="1"><b>26 days → minutes</b></font></td>
 </tr>
 
 <tr>
@@ -99,16 +101,8 @@ Python, AI, Jira, GitHub API, GCP
 Centralized intelligence solution using <b>Retrieval-Augmented Generation and LLMs</b> for faster organizational knowledge retrieval and intelligent information processing.
 </font>
 </td>
-<td>
-<font size="1">
-Python, RAG, LLMs, Dashboard
-</font>
-</td>
-<td>
-<font size="1">
-Faster knowledge retrieval and intelligent information access
-</font>
-</td>
+<td><font size="1">Python, RAG, LLMs, Dashboard</font></td>
+<td><font size="1">Faster knowledge retrieval and intelligent information access</font></td>
 </tr>
 
 <tr>
@@ -118,14 +112,8 @@ Faster knowledge retrieval and intelligent information access
 Machine Learning solution designed to identify <b>potentially high-risk tickets before escalation</b> using historical data and feature engineering.
 </font>
 </td>
-<td>
-<font size="1">
-Python, Machine Learning, Feature Engineering
-</font>
-</td>
-<td>
-<font size="1"><b>25% faster data processing</b></font>
-</td>
+<td><font size="1">Python, Machine Learning, Feature Engineering</font></td>
+<td><font size="1"><b>25% faster data processing</b></font></td>
 </tr>
 
 <tr>
@@ -135,40 +123,36 @@ Python, Machine Learning, Feature Engineering
 Automated operational workflow covering <b>access removal, validation, API integration and status tracking</b>.
 </font>
 </td>
-<td>
-<font size="1">
-Java, JavaScript, APIs, Testing
-</font>
-</td>
-<td>
-<font size="1">
-Improved workflow consistency and tracking
-</font>
-</td>
+<td><font size="1">Java, JavaScript, APIs, Testing</font></td>
+<td><font size="1">Improved workflow consistency and tracking</font></td>
 </tr>
 
 </table>
 
-## <font color="#006B7A" size="4">🤝 Leadership, CSR & Events</font>
-<font size="2">
+<h4 style="margin:4px 0 2px 0; padding:0;"><font color="#006B7A">🤝 Leadership, CSR & Events</font></h4>
+
+<font size="1">
 
 * **CSR Board Member & Lead:** Coordinate CSR initiatives and collaborate with teams for execution.
 * **Event Organization:** Contributed to organizing **Kids' Day** and **Rewards & Recognition** activities.
 * **Employee Engagement:** Support initiatives that encourage collaboration and participation.
 * **Cross-functional Collaboration:** Work with engineering teams, stakeholders and leadership.
 * **Ownership:** Take responsibility from planning and coordination through execution.
+
 </font>
 
-## <font color="#174EA6" size="4">🏆 Recognition</font>
+<h4 style="margin:4px 0 2px 0; padding:0;"><font color="#174EA6">🏆 Recognition</font></h4>
 
-<font size="2">
+<font size="1">
 
 * 🏆 **Lighthouse Award** — Recognized for performance, ownership and diverse contributions.
 * ⭐ **Multiple Recognitions** — Received rewards for technical, operational and organizational contributions.
+
 </font>
 
-## <font color="#006B7A" size="4">🎓 Education</font>
-<font size="2">
+<h4 style="margin:4px 0 2px 0; padding:0;"><font color="#006B7A">🎓 Education</font></h4>
+
+<font size="1">
 
 **Bachelor of Engineering**  
 GRT Institute of Engineering & Technology — Anna University
@@ -177,15 +161,18 @@ GRT Institute of Engineering & Technology — Anna University
 
 **Java Full Stack Development**  
 Jspiders — 8-Month Intensive Program
+
 </font>
 
-## <font color="#174EA6" size="4">📈 Engineering Philosophy</font>
+<h4 style="margin:4px 0 2px 0; padding:0;"><font color="#174EA6">📈 Engineering Philosophy</font></h4>
 
 > **I don't just ask how to fix a problem. I ask why it happened, how to prevent it, and how to make the entire process better.**
-<font size="2">I focus on building solutions that are **practical, scalable, reliable and impactful**.</font>
 
-## <font color="#006B7A" size="4">📫 Connect With Me</font>
-<font size="2">
+<font size="1">I focus on building solutions that are **practical, scalable, reliable and impactful**.</font>
+
+<h4 style="margin:4px 0 2px 0; padding:0;"><font color="#006B7A">📫 Connect With Me</font></h4>
+
+<font size="1">
 
 **Email:** [subramaniyamnagashree@gmail.com](mailto:subramaniyamnagashree@gmail.com)  
 **LinkedIn:** linkedin.com/in/nagashree-m-s-b43a9a319  
@@ -193,10 +180,8 @@ Jspiders — 8-Month Intensive Program
 
 </font>
 
----
+<div align="center" style="margin:2px 0 0 0; padding:0;">
 
-<div align="center">
-
-<h4><font color="#174EA6">ENGINEER • DEPLOY • SUPPORT • IMPROVE</font></h4>
+<h4 style="margin:2px 0; padding:0;"><font color="#174EA6">ENGINEER • DEPLOY • SUPPORT • IMPROVE</font></h4>
 
 </div>
