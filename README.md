@@ -185,7 +185,7 @@ Improved workflow consistency and tracking
 **Bachelor of Engineering**  
 GRT Institute of Engineering & Technology — Anna University
 
-**CGPA:** 8.7 / 10 • **Graduated:** 2023
+**CGPA:** 8.7 / 10 • **Graduated:** 2023 with Distinction
 
 **Java Full Stack Development**  
 Jspiders — 8-Month Intensive Program
