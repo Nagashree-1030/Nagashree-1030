@@ -1,10 +1,12 @@
 <div align="center">
 
-# <font color="#174EA6">NAGASHREE M S</font>
+<h1><font color="#174EA6">NAGASHREE M S</font></h1>
 
-### <font color="#006B7A">Operations Engineer | AI/ML | Deployment | Production Support</font>
+<h3><font color="#006B7A">Operations Engineer | AI/ML | Deployment | Production Support</font></h3>
 
-**Engineering solutions that make operations simpler, faster and more reliable.**
+<b>Engineering solutions that make operations simpler, faster and more reliable.</b>
+
+<br><br>
 
 Bangalore, India • Trellix • 2+ Years Experience
 
@@ -39,17 +41,36 @@ My approach is simple:
 
 ## <font color="#174EA6">🛠️ Technology</font>
 
-| Engineering | AI / Data           | Operations          |
-| :---------- | :------------------ | :------------------ |
-| Python      | LLMs                | Production Support  |
-| Java        | RAG                 | Troubleshooting     |
-| JavaScript  | Machine Learning    | Deployment          |
-| Docker      | Feature Engineering | Process Improvement |
-| CI/CD       | Data Processing     | Automation          |
-| REST APIs   | AI Solutions        | Root Cause Analysis |
-| GCP         |                     |                     |
-| Jira        |                     |                     |
-| GitHub      |                     |                     |
+<table align="center">
+<tr>
+<th bgcolor="#174EA6"><font color="white">Engineering</font></th>
+<th bgcolor="#006B7A"><font color="white">AI / Data</font></th>
+<th bgcolor="#1B7F5A"><font color="white">Operations</font></th>
+</tr>
+
+<tr>
+<td align="center">
+Python • Java<br>
+JavaScript • Docker<br>
+CI/CD • REST APIs<br>
+GCP • Jira • GitHub
+</td>
+
+<td align="center">
+LLMs • RAG<br>
+Machine Learning<br>
+Feature Engineering<br>
+Data Processing • AI
+</td>
+
+<td align="center">
+Production Support<br>
+Troubleshooting<br>
+Deployment<br>
+Automation • Process Improvement
+</td>
+</tr>
+</table>
 
 ---
 
@@ -66,41 +87,79 @@ My approach is simple:
 
 ## <font color="#174EA6">📌 Featured Projects</font>
 
-### 🔹 AutoBug Analyzer
+<table width="100%">
+<tr>
+<th bgcolor="#174EA6"><font color="white">Project</font></th>
+<th bgcolor="#006B7A"><font color="white">Description</font></th>
+<th bgcolor="#1B7F5A"><font color="white">Technology</font></th>
+<th bgcolor="#8A5A00"><font color="white">Impact</font></th>
+</tr>
 
-AI-powered workflow connecting:
+<tr>
+<td><b>AutoBug Analyzer</b></td>
+<td>
+AI-powered workflow connecting <b>Jira → AI Analysis → GitHub Code → Bug Detection → Resolution</b> to reduce manual bug investigation.
+</td>
+<td>
+Python<br>
+AI<br>
+Jira<br>
+GitHub API<br>
+GCP
+</td>
+<td>
+<b>26 days → minutes</b>
+</td>
+</tr>
 
-**Jira → AI Analysis → GitHub Code → Bug Detection → Resolution**
+<tr>
+<td><b>Executive RAG Intelligence</b></td>
+<td>
+Centralized intelligence solution using <b>Retrieval-Augmented Generation and LLMs</b> for faster organizational knowledge retrieval and intelligent information processing.
+</td>
+<td>
+Python<br>
+RAG<br>
+LLMs<br>
+Dashboard
+</td>
+<td>
+Faster knowledge retrieval and intelligent information access
+</td>
+</tr>
 
-**Technology:** `Python` `AI` `Jira` `GitHub API` `GCP`
+<tr>
+<td><b>ML Escalation Prediction</b></td>
+<td>
+Machine Learning solution designed to identify <b>potentially high-risk tickets before escalation</b> using historical data and feature engineering.
+</td>
+<td>
+Python<br>
+Machine Learning<br>
+Feature Engineering
+</td>
+<td>
+<b>25% faster data processing</b>
+</td>
+</tr>
 
-**Impact:** **Reduced approximately 26 days of effort to a minutes-long workflow.**
+<tr>
+<td><b>Offboarding Compliance</b></td>
+<td>
+Automated operational workflow covering <b>access removal, validation, API integration and status tracking</b>.
+</td>
+<td>
+Java<br>
+JavaScript<br>
+APIs<br>
+Testing
+</td>
+<td>
+Improved workflow consistency and tracking
+</td>
+</tr>
 
----
-
-### 🔹 Executive RAG Intelligence
-
-Centralized intelligence solution using **Retrieval-Augmented Generation and LLMs** for faster organizational knowledge retrieval and intelligent information processing.
-
-**Technology:** `Python` `RAG` `LLMs` `Dashboard`
-
----
-
-### 🔹 ML Escalation Prediction
-
-Machine Learning solution designed to identify **potentially high-risk tickets before escalation** using historical data and feature engineering.
-
-**Technology:** `Python` `Machine Learning` `Feature Engineering`
-
-**Impact:** **Approximately 25% faster data processing.**
-
----
-
-### 🔹 Offboarding Compliance
-
-Automated operational workflow covering **access removal, validation, API integration and status tracking**.
-
-**Technology:** `Java` `JavaScript` `APIs` `Testing`
+</table>
 
 ---
 
@@ -154,6 +213,6 @@ I focus on building solutions that are **practical, scalable, reliable and impac
 
 <div align="center">
 
-### <font color="#174EA6">ENGINEER • DEPLOY • SUPPORT • IMPROVE</font>
+<h3><font color="#174EA6">ENGINEER • DEPLOY • SUPPORT • IMPROVE</font></h3>
 
 </div>
