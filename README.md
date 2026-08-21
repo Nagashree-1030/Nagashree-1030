@@ -24,6 +24,7 @@ I focus on taking problems from **root-cause analysis to solution development, d
 * **Integration:** Work with Jira, GitHub, GCP and REST APIs.
 * **Ownership:** Take solutions from requirement understanding through deployment and support.
 </font>
+
 ## <font color="#174EA6" size="4">🛠️ Technology</font>
 <table align="center" cellspacing="0" cellpadding="2">
 <tr>
