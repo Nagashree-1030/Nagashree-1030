@@ -1,10 +1,10 @@
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" bgcolor="#E8F1FF">
 
-# <font color="#1557B0">NAGASHREE M S</font>
+<h1><font color="#1557B0">NAGASHREE M S</font></h1>
 
 <b><font color="#0B7285">Operations Engineer | AI/ML | Deployment | Production Support</font></b>
 
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<b>Bangalore, India</b>   |   <b>Trellix</b>   |   <b>2+ Years Experience</b>
+<b>Bangalore, India</b>   •   <b>Trellix</b>   •   <b>2+ Years Experience</b>
 
 </td>
 </tr>
@@ -43,16 +43,37 @@ Strong in taking problems from **root-cause analysis to solution development, de
 
 ## <font color="#1557B0">CORE TECHNOLOGY</font>
 
-<table>
+<table width="100%">
 <tr>
 <th bgcolor="#1557B0"><font color="white">ENGINEERING</font></th>
 <th bgcolor="#0B7285"><font color="white">AI / DATA</font></th>
 <th bgcolor="#198754"><font color="white">OPERATIONS</font></th>
 </tr>
 <tr>
-<td>Python • Java • JavaScript<br>Docker • CI/CD<br>REST APIs • GCP<br>Jira • GitHub</td>
-<td>LLMs • RAG<br>Machine Learning<br>Feature Engineering<br>Data Processing</td>
-<td>Production Support<br>Troubleshooting<br>Deployment<br>Process Improvement</td>
+<td align="center">
+
+**Python • Java • JavaScript**
+**Docker • CI/CD**
+**REST APIs • GCP**
+**Jira • GitHub**
+
+</td>
+<td align="center">
+
+**LLMs • RAG**
+**Machine Learning**
+**Feature Engineering**
+**Data Processing**
+
+</td>
+<td align="center">
+
+**Production Support**
+**Troubleshooting**
+**Deployment**
+**Process Improvement**
+
+</td>
 </tr>
 </table>
 
@@ -76,18 +97,23 @@ Strong in taking problems from **root-cause analysis to solution development, de
 
 ### <font color="#198754">KEY IMPACT</font>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" bgcolor="#E8F5E9">
 
-### <font color="#198754">26 DAYS → MINUTES</font>
+<b><font color="#198754">26 DAYS → MINUTES</font></b>
+
+<br>
 
 Redesigned an engineering workflow, reducing approximately **26 days of effort to a minutes-long process**.
 
 </td>
+
 <td align="center" bgcolor="#E3F2FD">
 
-### <font color="#1557B0">25% EFFICIENCY IMPROVEMENT</font>
+<b><font color="#1557B0">25% EFFICIENCY IMPROVEMENT</font></b>
+
+<br>
 
 Developed an ML-based operational solution that improved **data-processing efficiency by approximately 25%**.
 
@@ -99,7 +125,7 @@ Developed an ML-based operational solution that improved **data-processing effic
 
 # <font color="#1557B0">SELECTED PROJECTS</font>
 
-<table>
+<table width="100%">
 <tr>
 <th bgcolor="#1557B0"><font color="white">PROJECT</font></th>
 <th bgcolor="#0B7285"><font color="white">WHAT I BUILT / CONTRIBUTION</font></th>
@@ -138,21 +164,21 @@ Developed an ML-based operational solution that improved **data-processing effic
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td bgcolor="#E8F1FF"><b>UNDERSTAND</b></td>
-<td>→</td>
-<td bgcolor="#E8F1FF"><b>DESIGN</b></td>
-<td>→</td>
-<td bgcolor="#E3F2FD"><b>BUILD</b></td>
-<td>→</td>
-<td bgcolor="#E3F2FD"><b>VALIDATE</b></td>
-<td>→</td>
-<td bgcolor="#E8F5E9"><b>DEPLOY</b></td>
-<td>→</td>
-<td bgcolor="#E8F5E9"><b>SUPPORT</b></td>
-<td>→</td>
-<td bgcolor="#FFF3CD"><b>IMPROVE</b></td>
+<td align="center" bgcolor="#E8F1FF"><b>UNDERSTAND</b></td>
+<td align="center">→</td>
+<td align="center" bgcolor="#E8F1FF"><b>DESIGN</b></td>
+<td align="center">→</td>
+<td align="center" bgcolor="#E3F2FD"><b>BUILD</b></td>
+<td align="center">→</td>
+<td align="center" bgcolor="#E3F2FD"><b>VALIDATE</b></td>
+<td align="center">→</td>
+<td align="center" bgcolor="#E8F5E9"><b>DEPLOY</b></td>
+<td align="center">→</td>
+<td align="center" bgcolor="#E8F5E9"><b>SUPPORT</b></td>
+<td align="center">→</td>
+<td align="center" bgcolor="#FFF3CD"><b>IMPROVE</b></td>
 </tr>
 </table>
 
@@ -181,19 +207,19 @@ I focus not only on **fixing problems**, but on understanding their root cause a
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" bgcolor="#E8F1FF">
 
-## <font color="#1557B0">NAGASHREE M S</font>
+<h2><font color="#1557B0">NAGASHREE M S</font></h2>
 
 <b>Operations Engineer • AI/ML • Deployment • Production Support</b>
 
 <br><br>
 
-📧 [subramanyamnagashree@gmail.com](mailto:subramanyamnagashree@gmail.com)
-💼 linkedin.com/in/nagashree-m-s-b43a9a319
-💻 github.com/Nagashree-1030
+📧 <b>[subramanyamnagashree@gmail.com](mailto:subramanyamnagashree@gmail.com)</b>
+💼 <b>linkedin.com/in/nagashree-m-s-b43a9a319</b>
+💻 <b>github.com/Nagashree-1030</b>
 
 <br><br>
 
