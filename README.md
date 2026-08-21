@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## <font color="#174EA6">👩‍💻 About Me</font>
 
 <font size="2">Operations Engineer with **2+ years of experience at Trellix**, working across **engineering, automation, AI/ML, deployments, production support and process improvement**.
@@ -19,8 +17,6 @@
 I focus on taking problems from **root-cause analysis to solution development, deployment and production support**, with an emphasis on reducing manual effort and improving operational efficiency.</font>
 
 > **Understand → Design → Build → Validate → Deploy → Support → Improve**
-
----
 
 ## <font color="#006B7A">🚀 What I Do</font>
 
@@ -36,8 +32,6 @@ I focus on taking problems from **root-cause analysis to solution development, d
 * **Ownership:** Take solutions from requirement understanding through deployment and support.
 
 </font>
-
----
 
 ## <font color="#174EA6">🛠️ Technology</font>
 
@@ -78,8 +72,6 @@ Automation • Process Improvement
 </tr>
 </table>
 
----
-
 ## <font color="#006B7A">💡 Key Impact</font>
 
 <font size="2">
@@ -92,8 +84,6 @@ Automation • Process Improvement
 | **Process Improvement** | Faster and more reliable operational workflows |
 
 </font>
-
----
 
 ## <font color="#174EA6">📌 Featured Projects</font>
 
@@ -191,8 +181,6 @@ Improved workflow consistency and tracking
 
 </table>
 
----
-
 ## <font color="#006B7A">🤝 Leadership, CSR & Events</font>
 
 <font size="2">
@@ -205,8 +193,6 @@ Improved workflow consistency and tracking
 
 </font>
 
----
-
 ## <font color="#174EA6">🏆 Recognition</font>
 
 <font size="2">
@@ -215,8 +201,6 @@ Improved workflow consistency and tracking
 * ⭐ **Multiple Recognitions** — Received rewards for technical, operational and organizational contributions.
 
 </font>
-
----
 
 ## <font color="#006B7A">🎓 Education</font>
 
@@ -233,15 +217,11 @@ Jspiders — 8-Month Intensive Program
 
 </font>
 
----
-
 ## <font color="#174EA6">📈 Engineering Philosophy</font>
 
 > **I don't just ask how to fix a problem. I ask why it happened, how to prevent it, and how to make the entire process better.**
 
 <font size="2">I focus on building solutions that are **practical, scalable, reliable and impactful**.</font>
-
----
 
 ## <font color="#006B7A">📫 Connect With Me</font>
 
