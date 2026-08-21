@@ -7,7 +7,7 @@
 
 </div>
 
-## <font color="#174EA6">👩‍💻 About Me</font>
+## <font color="#174EA6" size="4">👩‍💻 About Me</font>
 
 <font size="2">Operations Engineer with **2+ years of experience at Trellix**, working across **engineering, automation, AI/ML, deployments, production support and process improvement**.
 
@@ -15,7 +15,7 @@ I focus on taking problems from **root-cause analysis to solution development, d
 
 > **Understand → Design → Build → Validate → Deploy → Support → Improve**
 
-## <font color="#006B7A">🚀 What I Do</font>
+## <font color="#006B7A" size="4">🚀 What I Do</font>
 
 <font size="2">
 
@@ -30,7 +30,7 @@ I focus on taking problems from **root-cause analysis to solution development, d
 
 </font>
 
-## <font color="#174EA6">🛠️ Technology</font>
+## <font color="#174EA6" size="4">🛠️ Technology</font>
 
 <table align="center" cellspacing="0" cellpadding="2">
 <tr>
@@ -42,34 +42,25 @@ I focus on taking problems from **root-cause analysis to solution development, d
 <tr>
 <td align="center">
 <font size="1">
-Python • Java<br>
-JavaScript • Docker<br>
-CI/CD • REST APIs<br>
-GCP • Jira • GitHub
+Python • Java • JavaScript • Docker • CI/CD • REST APIs • GCP • Jira • GitHub
 </font>
 </td>
 
 <td align="center">
 <font size="1">
-LLMs • RAG<br>
-Machine Learning<br>
-Feature Engineering<br>
-Data Processing • AI
+LLMs • RAG • Machine Learning • Feature Engineering • Data Processing • AI
 </font>
 </td>
 
 <td align="center">
 <font size="1">
-Production Support<br>
-Troubleshooting<br>
-Deployment<br>
-Automation • Process Improvement
+Production Support • Troubleshooting • Deployment • Automation • Process Improvement
 </font>
 </td>
 </tr>
 </table>
 
-## <font color="#006B7A">💡 Key Impact</font>
+## <font color="#006B7A" size="4">💡 Key Impact</font>
 
 <font size="2">
 
@@ -82,7 +73,7 @@ Automation • Process Improvement
 
 </font>
 
-## <font color="#174EA6">📌 Featured Projects</font>
+## <font color="#174EA6" size="4">📌 Featured Projects</font>
 
 <table width="100%" cellspacing="0" cellpadding="2">
 <tr>
@@ -101,11 +92,7 @@ AI-powered workflow connecting <b>Jira → AI Analysis → GitHub Code → Bug D
 </td>
 <td>
 <font size="1">
-Python<br>
-AI<br>
-Jira<br>
-GitHub API<br>
-GCP
+Python, AI, Jira, GitHub API, GCP
 </font>
 </td>
 <td>
@@ -122,10 +109,7 @@ Centralized intelligence solution using <b>Retrieval-Augmented Generation and LL
 </td>
 <td>
 <font size="1">
-Python<br>
-RAG<br>
-LLMs<br>
-Dashboard
+Python, RAG, LLMs, Dashboard
 </font>
 </td>
 <td>
@@ -144,9 +128,7 @@ Machine Learning solution designed to identify <b>potentially high-risk tickets 
 </td>
 <td>
 <font size="1">
-Python<br>
-Machine Learning<br>
-Feature Engineering
+Python, Machine Learning, Feature Engineering
 </font>
 </td>
 <td>
@@ -163,10 +145,7 @@ Automated operational workflow covering <b>access removal, validation, API integ
 </td>
 <td>
 <font size="1">
-Java<br>
-JavaScript<br>
-APIs<br>
-Testing
+Java, JavaScript, APIs, Testing
 </font>
 </td>
 <td>
@@ -178,7 +157,7 @@ Improved workflow consistency and tracking
 
 </table>
 
-## <font color="#006B7A">🤝 Leadership, CSR & Events</font>
+## <font color="#006B7A" size="4">🤝 Leadership, CSR & Events</font>
 
 <font size="2">
 
@@ -190,7 +169,7 @@ Improved workflow consistency and tracking
 
 </font>
 
-## <font color="#174EA6">🏆 Recognition</font>
+## <font color="#174EA6" size="4">🏆 Recognition</font>
 
 <font size="2">
 
@@ -199,7 +178,7 @@ Improved workflow consistency and tracking
 
 </font>
 
-## <font color="#006B7A">🎓 Education</font>
+## <font color="#006B7A" size="4">🎓 Education</font>
 
 <font size="2">
 
@@ -213,13 +192,13 @@ Jspiders — 8-Month Intensive Program
 
 </font>
 
-## <font color="#174EA6">📈 Engineering Philosophy</font>
+## <font color="#174EA6" size="4">📈 Engineering Philosophy</font>
 
 > **I don't just ask how to fix a problem. I ask why it happened, how to prevent it, and how to make the entire process better.**
 
 <font size="2">I focus on building solutions that are **practical, scalable, reliable and impactful**.</font>
 
-## <font color="#006B7A">📫 Connect With Me</font>
+## <font color="#006B7A" size="4">📫 Connect With Me</font>
 
 <font size="2">
 
