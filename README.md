@@ -28,19 +28,21 @@
 
 ## 👋 About Me
 
-I am an **Operations Engineer with 2+ years of professional experience at Trellix**, focused on improving enterprise operations through engineering, AI, intelligent workflows, and process transformation.
+Hi, I'm **Nagashree M S**, an **Operations Engineer with 2+ years of professional experience at Trellix**, focused on improving enterprise operations through engineering, AI-driven solutions, intelligent workflows, and process transformation.
 
-I enjoy taking operational problems from **problem identification → solution design → implementation → validation → adoption**.
+I enjoy taking operational challenges from:
 
-My focus is on building practical solutions that reduce manual effort, improve reliability, and create measurable business value.
+**Problem Identification → Solution Design → Implementation → Validation → Adoption**
+
+My goal is to build practical and reliable solutions that reduce manual effort, improve operational efficiency, and create measurable business value.
 
 > **My engineering philosophy:** Understand the problem deeply, build thoughtfully, deliver reliably, and continuously improve.
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### Programming & Scripting
+## 💻 Programming & Scripting
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -49,7 +51,7 @@ My focus is on building practical solutions that reduce manual effort, improve r
 <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-### AI & Machine Learning
+## 🤖 AI & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge"/>
@@ -58,7 +60,7 @@ My focus is on building practical solutions that reduce manual effort, improve r
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### Engineering & Infrastructure
+## ☁️ Engineering & Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/Docker%20Basics-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -68,7 +70,7 @@ My focus is on building practical solutions that reduce manual effort, improve r
 <img src="https://img.shields.io/badge/Apache%20Ant%20Basics-A81C7D?style=for-the-badge"/>
 </p>
 
-### Platforms & Tools
+## 🔧 Platforms & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
@@ -83,19 +85,22 @@ My focus is on building practical solutions that reduce manual effort, improve r
 
 ## 🏢 Trellix
 
-**Operations Engineer**
-📍 Bangalore, India | **July 2024 – Present**
+### Operations Engineer
+
+**July 2024 – Present · Bangalore, India**
+
+As an Operations Engineer at Trellix, I work on improving operational workflows, building engineering solutions, collaborating with cross-functional teams, and exploring practical applications of AI to solve business problems.
 
 ### Key Contributions
 
-| Area                     | Contribution                                                                                                             |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| ⚡ Engineering Efficiency | Transformed a workflow requiring approximately **26 days of engineering effort into a minutes-long process**.            |
-| 🤖 AI Solutions          | Built **LLM-powered workflows using Google Apps Script** to reduce repetitive operational work.                          |
-| 🧠 RAG & AI              | Collaborated with engineering teams on **RAG applications and internal AI infrastructure**.                              |
-| 🎫 Operations            | Improved ticketing and incident-management workflows to make processes more structured and traceable.                    |
-| 📊 Business Alignment    | Worked with executive leadership and cross-functional teams to connect engineering initiatives with business priorities. |
-| 🤝 Leadership            | Served as **CSR Lead**, coordinating initiatives and collaborating across teams.                                         |
+| Area                              | Contribution                                                                                                                    |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| ⚡ **Engineering Efficiency**      | Transformed a workflow requiring approximately **26 days of engineering effort into a minutes-long process**.                   |
+| 🤖 **AI Solutions**               | Built LLM-powered workflows using **Google Apps Script** to reduce repetitive operational work.                                 |
+| 🧠 **RAG & AI Infrastructure**    | Collaborated with engineering teams on **RAG applications and internal AI infrastructure**.                                     |
+| 🎫 **Operational Transformation** | Improved ticketing and incident-management workflows to make processes more structured and traceable.                           |
+| 📊 **Business Alignment**         | Worked with executive leadership and cross-functional stakeholders to connect engineering initiatives with business priorities. |
+| 🤝 **Leadership**                 | Served as **CSR Lead**, coordinating initiatives and collaborating with colleagues across teams.                                |
 
 ---
 
@@ -108,39 +113,39 @@ My focus is on building practical solutions that reduce manual effort, improve r
 
 <td align="center" width="25%">
 
-## ⚡ 26 Days
+### ⚡ 26 Days
 
-### → Minutes
+## → Minutes
 
-Reduced engineering effort through workflow transformation
-
-</td>
-
-<td align="center" width="25%">
-
-## 📉 25%
-
-### Reduction
-
-Data-processing time improvement
+Engineering workflow transformation
 
 </td>
 
 <td align="center" width="25%">
 
-## 🤖 LLM
+### 📉 25%
 
-### Powered
+## Reduction
 
-Intelligent operational workflows
+Data-processing time
 
 </td>
 
 <td align="center" width="25%">
 
-## 🧠 RAG
+### 🤖 LLM
 
-### Intelligence
+## Powered
+
+Intelligent workflows
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠 RAG
+
+## Intelligence
 
 Centralized information access
 
@@ -153,19 +158,19 @@ Centralized information access
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Engineering Projects
 
 ## 🧠 Executive RAG Intelligence System
 
-A centralized intelligence platform designed to make organizational information easier to access and understand.
+A centralized intelligence platform designed to make organizational information easier to access, search, and understand.
 
 ### What I Built
 
 * Integrated organizational information into a centralized platform.
 * Applied **Retrieval-Augmented Generation (RAG)** concepts.
-* Used LLM-based processing to make information easier to search and understand.
+* Used LLM-based processing to improve information accessibility.
 * Designed the solution around practical executive and operational use cases.
-* Focused on improving information accessibility and decision-making.
+* Focused on helping users access relevant information more efficiently.
 
 **Technology**
 
@@ -183,30 +188,30 @@ The traditional bug investigation process could require approximately **26 days 
 
 ### Solution
 
-Built a workflow that connects:
+Built a workflow connecting Jira, GitHub, and cloud infrastructure to analyze bugs, tickets, attachments, and source code.
 
 ```text
-Jira
-  │
-  ▼
+Jira Ticket
+     │
+     ▼
 Ticket Analysis
-  │
-  ▼
-Attachment & Bug Analysis
-  │
-  ▼
+     │
+     ▼
+Attachment Analysis
+     │
+     ▼
 GitHub Code Comparison
-  │
-  ▼
+     │
+     ▼
 Bug Identification
-  │
-  ▼
+     │
+     ▼
 Suggested Resolution
 ```
 
 ### Result
 
-The workflow reduced the analysis process from **weeks of manual effort to minutes**.
+The workflow reduced the analysis process from **weeks of engineering effort to minutes**.
 
 **Technology**
 
@@ -216,7 +221,7 @@ The workflow reduced the analysis process from **weeks of manual effort to minut
 
 ## 🚪 Automated Offboarding Compliance
 
-An operational workflow designed to improve access-removal processes and reduce security and compliance gaps.
+An operational workflow designed to improve access-removal processes and reduce operational and security gaps.
 
 ### Key Areas
 
@@ -358,18 +363,18 @@ Scale
 
 # 💎 Professional Values
 
-| Value                         | What It Means                                                               |
-| ----------------------------- | --------------------------------------------------------------------------- |
-| 🎯 **Discipline**             | Consistent execution with attention to quality and detail.                  |
-| 💪 **Hard Work**              | Putting in the effort required to solve difficult problems properly.        |
-| 🔄 **Consistency**            | Building reliable results through dependable execution.                     |
-| 🤝 **Ownership**              | Taking responsibility for outcomes, not just assigned tasks.                |
-| 💙 **Empathy**                | Listening carefully and communicating with respect.                         |
-| 🚀 **Continuous Improvement** | Always looking for ways to make systems simpler, faster, and more reliable. |
+| Value                         | What It Means                                                                 |
+| ----------------------------- | ----------------------------------------------------------------------------- |
+| 🎯 **Discipline**             | Consistent execution with attention to quality and detail.                    |
+| 💪 **Hard Work**              | Putting in the effort required to solve difficult problems properly.          |
+| 🔄 **Consistency**            | Building reliable results through dependable execution.                       |
+| 🤝 **Ownership**              | Taking responsibility for outcomes, not just assigned tasks.                  |
+| 💙 **Empathy**                | Listening carefully and communicating with respect.                           |
+| 🚀 **Continuous Improvement** | Looking for opportunities to make systems simpler, faster, and more reliable. |
 
 ---
 
-# 🧠 What I Bring
+# 🧠 What Nagashree M S Brings
 
 <div align="center">
 
@@ -417,6 +422,47 @@ Focus on measurable outcomes
 
 ---
 
+# 📈 Engineering Growth
+
+<div align="center">
+
+### Learn → Build → Improve → Measure → Scale
+
+</div>
+
+```text
+LEARN
+  │
+  ▼
+Understand new technologies
+  │
+  ▼
+BUILD
+  │
+  ▼
+Convert ideas into practical solutions
+  │
+  ▼
+IMPROVE
+  │
+  ▼
+Optimize processes and reliability
+  │
+  ▼
+MEASURE
+  │
+  ▼
+Track meaningful outcomes
+  │
+  ▼
+SCALE
+  │
+  ▼
+Create lasting engineering value
+```
+
+---
+
 # 🎓 Education
 
 ### 🎓 Bachelor of Engineering
@@ -429,7 +475,7 @@ Focus on measurable outcomes
 
 **Jspiders**
 
-8-Month Intensive Program
+**8-Month Intensive Program**
 
 ---
 
@@ -454,50 +500,27 @@ It is also about **communication, responsibility, collaboration, and understandi
 
 ---
 
-# 📈 My Engineering Journey
-
-```text
-              🚀 IMPACT
-                  ▲
-                  │
-              ┌───┴───┐
-              │ SCALE │
-              └───┬───┘
-                  │
-             ┌────┴────┐
-             │ IMPROVE │
-             └────┬────┘
-                  │
-             ┌────┴─────┐
-             │   BUILD  │
-             └────┬─────┘
-                  │
-             ┌────┴─────┐
-             │  LEARN   │
-             └──────────┘
-```
-
-### My Focus
-
-**Learn → Build → Improve → Measure → Scale**
-
-I continuously look for opportunities where engineering can solve real operational problems and create measurable value.
-
----
-
 # 💡 Engineering Mindset
 
 <div align="center">
 
-### Technical skills create solutions.
+## Technical skills create solutions.
 
-### Good judgment makes them useful.
+## Good judgment makes them useful.
 
-### Strong collaboration makes them successful.
+## Strong collaboration makes them successful.
 
 <br/>
 
-**Understand deeply. • Build thoughtfully. • Deliver reliably. • Learn continuously.**
+### Understand deeply.
+
+### Build thoughtfully.
+
+### Deliver reliably.
+
+### Learn continuously.
+
+### Create meaningful impact.
 
 </div>
 
@@ -521,9 +544,11 @@ I continuously look for opportunities where engineering can solve real operation
 
 <br/>
 
-📧 **[subramaniyamnagashree@gmail.com](mailto:subramaniyamnagashree@gmail.com)**
+**Nagashree M S**
 
-📍 **Bangalore, Karnataka, India**
+📧 [subramaniyamnagashree@gmail.com](mailto:subramaniyamnagashree@gmail.com)
+
+📍 Bangalore, Karnataka, India
 
 </div>
 
@@ -531,11 +556,10 @@ I continuously look for opportunities where engineering can solve real operation
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+### ⭐ Thanks for visiting Nagashree M S's GitHub profile!
 
 **Engineering • Operations • AI • Continuous Improvement**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:312E81,100:111827&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:312E81,100:111827&height=120&section=footer" width="100%"/>
 
 </div>
-
