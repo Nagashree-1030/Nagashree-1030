@@ -1,11 +1,8 @@
 <div align="center">
 
 <h2><font color="#174EA6">NAGASHREE M S</font></h2>
-
 <h4><font color="#006B7A">Operations Engineer | AI/ML | Deployment | Production Support</font></h4>
-
-<font size="2"><b>Engineering solutions that make operations simpler, faster and more reliable.</b></font>
-
+<font size="2"><b>Engineering solutions that make operations simpler, faster and more reliable.</b></font><br>
 <font size="2">Bangalore, India • Trellix • 2+ Years Experience</font>
 
 </div>
@@ -35,7 +32,7 @@ I focus on taking problems from **root-cause analysis to solution development, d
 
 ## <font color="#174EA6">🛠️ Technology</font>
 
-<table align="center" cellspacing="0" cellpadding="3">
+<table align="center" cellspacing="0" cellpadding="2">
 <tr>
 <th bgcolor="#DCE6F7"><font color="#0B3D91" size="2"><b>Engineering</b></font></th>
 <th bgcolor="#D9EFF2"><font color="#006B7A" size="2"><b>AI / Data</b></font></th>
@@ -87,7 +84,7 @@ Automation • Process Improvement
 
 ## <font color="#174EA6">📌 Featured Projects</font>
 
-<table width="100%" cellspacing="0" cellpadding="3">
+<table width="100%" cellspacing="0" cellpadding="2">
 <tr>
 <th bgcolor="#DCE6F7"><font color="#0B3D91" size="2"><b>Project</b></font></th>
 <th bgcolor="#D9EFF2"><font color="#006B7A" size="2"><b>Description</b></font></th>
@@ -209,8 +206,7 @@ Improved workflow consistency and tracking
 **Bachelor of Engineering**  
 GRT Institute of Engineering & Technology — Anna University
 
-**CGPA:** 8.7 / 10  
-**Graduated:** 2023
+**CGPA:** 8.7 / 10 • **Graduated:** 2023
 
 **Java Full Stack Development**  
 Jspiders — 8-Month Intensive Program
