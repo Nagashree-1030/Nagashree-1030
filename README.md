@@ -1,28 +1,12 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+# NAGASHREE M S
 
-<h1>NAGASHREE M S</h1>
+**Operations Engineer | AI/ML | Deployment | Production Support**
 
-<b>Operations Engineer &nbsp;|&nbsp; AI/ML &nbsp;|&nbsp; Deployment &nbsp;|&nbsp; Production Support</b>
+*Engineering solutions that make operations simpler, faster and more reliable.*
 
-<br><br>
-
-<i>Engineering solutions that make operations simpler, faster and more reliable.</i>
-
-<br><br>
-
-<b>Bangalore, India</b>
-&nbsp; • &nbsp;
-<b>Trellix</b>
-&nbsp; • &nbsp;
-<b>2+ Years Experience</b>
-
-</td>
-</tr>
-</table>
+**Bangalore, India | Trellix | 2+ Years Experience**
 
 </div>
 
@@ -30,25 +14,29 @@
 
 ## PROFESSIONAL SUMMARY
 
-**Operations Engineer with 2+ years at Trellix**, working across **coding, deployments, production support, AI/ML solutions and process improvement**.
+Operations Engineer with **2+ years of experience at Trellix**, working across **engineering, automation, AI/ML, deployments, production support and process improvement**.
 
-I focus on solving operational problems from **root cause to production**, while looking for simpler, faster and more reliable ways to work.
+Strong in taking problems from **root-cause analysis to solution development, deployment and production support**, with a focus on reducing manual effort and improving operational efficiency.
 
-My experience covers the complete engineering lifecycle — **understanding requirements, developing solutions, validating them, deploying to the right environment, supporting production, and continuously improving the process**.
+---
 
-I believe in **ownership**: not just fixing an issue, but understanding why it happened and building a better long-term solution.
+## LEADERSHIP • CSR • EVENTS
+
+* **CSR Board Member & Lead:** Coordinate CSR initiatives and collaborate with teams for successful execution.
+* **Event Organization:** Contributed to organizing **Kids' Day, Rewards & Recognition** and employee engagement activities.
+* **Team Collaboration:** Work with cross-functional teams, stakeholders and leadership to plan and execute initiatives.
+* **Ownership:** Take responsibility for activities from **planning and coordination to execution**.
 
 ---
 
 ## CORE TECHNOLOGY
 
-| **ENGINEERING** | **AI / DATA** | **OPERATIONS** |
-|:---|:---|:---|
-| **Python • Java • JavaScript** | **LLMs • RAG** | **Production Support** |
-| **Google Apps Script** | **Machine Learning** | **Troubleshooting** |
-| **Docker • CI/CD** | **AI Solutions** | **Deployments** |
-| **REST APIs • GCP** | **Feature Engineering** | **Process Improvement** |
-| **Jira • GitHub** | **Data Processing** | **Cross-functional Collaboration** |
+| **ENGINEERING**            | **AI / DATA**       | **OPERATIONS**      |
+| :------------------------- | :------------------ | :------------------ |
+| Python • Java • JavaScript | LLMs • RAG          | Production Support  |
+| Docker • CI/CD             | Machine Learning    | Troubleshooting     |
+| REST APIs • GCP            | Feature Engineering | Deployment          |
+| Jira • GitHub              | Data Processing     | Process Improvement |
 
 ---
 
@@ -58,35 +46,32 @@ I believe in **ownership**: not just fixing an issue, but understanding why it h
 
 **July 2024 – Present | Bangalore, India**
 
-My role goes beyond regular operations. I work across **engineering, coding, deployment, production support, AI/ML and process improvement**.
+* **Engineering:** Develop Python, Java and JavaScript solutions to solve operational and engineering problems.
+* **Automation:** Build solutions that reduce repetitive manual work and improve team productivity.
+* **AI/ML:** Develop **AI, LLM and ML-based solutions** for investigation, prediction and operational efficiency.
+* **Deployment:** Validate solutions and ensure successful deployment to the **correct targeted environment** with required dependencies.
+* **Production Support:** Troubleshoot production issues, perform root-cause analysis and collaborate with engineering teams for resolution.
+* **Process Improvement:** Identify bottlenecks and redesign workflows to make them **faster, simpler and more reliable**.
+* **Integration:** Work with **Jira, GitHub, GCP and REST APIs** to build connected operational workflows.
+* **Ownership:** Manage solutions end-to-end from **requirement understanding → development → validation → deployment → support**.
+* **Collaboration:** Partner with engineering teams, stakeholders and leadership to deliver technical and operational solutions.
 
-| **AREA** | **CONTRIBUTION** |
-|:---|:---|
-| **Engineering & Coding** | Develop scripts and practical solutions for operational and engineering problems. |
-| **Deployment** | Work through validation and deployment, ensuring solutions reach the **correct targeted environment** with required dependencies and readiness. |
-| **Production Support** | Troubleshoot issues, understand root causes, and work with engineering teams to restore and improve services. |
-| **AI / ML** | Build **AI/ML and LLM-based solutions** to reduce repetitive work and improve team efficiency. |
-| **Process Improvement** | Analyze existing workflows and redesign them to reduce manual effort and improve reliability. |
-| **Integration** | Work with platforms and APIs including **Jira, GitHub and GCP**. |
-| **Collaboration** | Partner with engineering teams, senior stakeholders and leadership to understand requirements and deliver solutions. |
-| **Ownership** | Take responsibility from **problem identification through implementation, deployment and support**. |
+### KEY IMPACT
 
-### KEY ENGINEERING IMPACT
+**26 Days → Minutes:** Redesigned an engineering workflow, reducing approximately **26 days of effort to a minutes-long process**.
 
-| **26 DAYS → MINUTES** | **25% REDUCTION** |
-|:---:|:---:|
-| Redesigned an engineering workflow that previously required approximately **26 days of effort**, reducing the process to a **minutes-long workflow**. | Improved data-processing efficiency through an **ML-based operational solution**. |
+**25% Efficiency Improvement:** Developed an ML-based operational solution that improved **data-processing efficiency by approximately 25%**.
 
 ---
 
 # SELECTED PROJECTS
 
-| **PROJECT** | **DESCRIPTION** | **TECHNOLOGY / IMPACT** |
-|:---|:---|:---|
-| **01 • AutoBug Analyzer** | **Purpose:** Reduce manual effort involved in software bug investigation.<br><br>**Flow:** Jira → AI Analysis → Attachments → GitHub Code → Bug Detection → Resolution | **Impact:** 26 days → minutes<br><br>`Python` `Jira` `GitHub API` `GCP` `AI` |
-| **02 • Executive RAG Intelligence** | Built a centralized intelligence solution using **Retrieval-Augmented Generation (RAG) and LLMs** to make organizational information easier to retrieve and understand.<br><br>**Focus:** Knowledge retrieval • LLM processing • Operational intelligence | `Python` `RAG` `LLMs` `Dashboard` |
-| **03 • ML Escalation Prediction** | Developed an ML-based solution to identify **potentially high-risk tickets before escalation**, helping teams take action earlier.<br><br>**Flow:** Historical Data → Processing → Features → ML Model → Risk Score → Early Action | **Impact:** 25% reduction in data-processing time<br><br>`Python` `Machine Learning` `Feature Engineering` |
-| **04 • Offboarding Compliance** | Developed an operational workflow covering **access removal, validation, API integration, workflow execution and status tracking**. | `Java` `JavaScript` `APIs` `Testing` |
+| **PROJECT**                    | **WHAT I BUILT / CONTRIBUTION**                                                                                                      | **IMPACT / TECHNOLOGY**                                               |
+| :----------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- |
+| **AutoBug Analyzer**           | AI-powered workflow connecting **Jira → AI Analysis → GitHub Code → Bug Detection → Resolution** to reduce manual bug investigation. | **26 days → minutes**<br>`Python` `AI` `Jira` `GitHub API` `GCP`      |
+| **Executive RAG Intelligence** | Centralized **RAG + LLM** solution for faster organizational knowledge retrieval and intelligent information processing.             | `Python` `RAG` `LLMs` `Dashboard`                                     |
+| **ML Escalation Prediction**   | ML solution to identify **potentially high-risk tickets before escalation** using historical data and feature engineering.           | **25% faster data processing**<br>`Python` `ML` `Feature Engineering` |
+| **Offboarding Compliance**     | Automated workflow covering **access removal, validation, API integration and status tracking**.                                     | `Java` `JavaScript` `APIs` `Testing`                                  |
 
 ---
 
@@ -94,102 +79,41 @@ My role goes beyond regular operations. I work across **engineering, coding, dep
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><b>UNDERSTAND</b></td>
-<td>→</td>
-<td align="center"><b>DESIGN</b></td>
-<td>→</td>
-<td align="center"><b>BUILD</b></td>
-<td>→</td>
-<td align="center"><b>VALIDATE</b></td>
-<td>→</td>
-<td align="center"><b>DEPLOY</b></td>
-<td>→</td>
-<td align="center"><b>SUPPORT</b></td>
-<td>→</td>
-<td align="center"><b>IMPROVE</b></td>
-</tr>
-</table>
+**UNDERSTAND → DESIGN → BUILD → VALIDATE → DEPLOY → SUPPORT → IMPROVE**
 
 </div>
 
-I look beyond the immediate fix and focus on **root cause, reliability, deployment readiness, production impact and long-term improvement**.
-
----
-
-# LEADERSHIP & COLLABORATION
-
-### CSR Board Member & Lead — Trellix
-
-Alongside my technical responsibilities, I serve as a **CSR Board Member and Lead**, helping drive CSR initiatives and coordinate activities across teams.
-
-Contributed to company initiatives including **Kids' Day** and **Rewards & Recognition**.
-
-These responsibilities strengthened my **communication, coordination, leadership, ownership and teamwork** skills.
+I focus not only on **fixing problems**, but on understanding their root cause and creating solutions that deliver **long-term reliability and efficiency**.
 
 ---
 
 # RECOGNITION
 
-| **AWARD** | **RECOGNITION** |
-|:---|:---|
-| **Lighthouse Award** | Recently received the **Lighthouse Award**, recognizing my performance and diverse contributions across the organization. |
-| **Additional Recognition** | Received **multiple rewards and recognitions** for performance, ownership and contributions across different areas of work. |
+* 🏆 **Lighthouse Award** — Recognized for performance, ownership and diverse contributions.
+* ⭐ **Multiple Recognitions** — Received rewards for contributions across technical, operational and organizational initiatives.
 
 ---
 
 # EDUCATION
 
-| **QUALIFICATION** | **DETAILS** |
-|:---|:---|
-| **Bachelor of Engineering** | **GRT Institute of Engineering & Technology — Anna University** |
-| **CGPA** | **8.7 / 10** |
-| **Graduation** | **2023** |
-| **Java Full Stack Development** | **Jspiders — 8-Month Intensive Program** |
+**Bachelor of Engineering — GRT Institute of Engineering & Technology, Anna University**
+**CGPA:** 8.7 / 10 | **Graduated:** 2023
 
----
-
-# WHAT I BRING
-
-| **TECHNICAL THINKING** | **OPERATIONAL THINKING** | **OWNERSHIP** | **COLLABORATION** |
-|:---:|:---:|:---:|:---:|
-| Problem solving | Reliability & efficiency | End-to-end responsibility | Cross-functional teamwork |
-
-> **I don't just ask how to fix a problem. I ask why it happened, how to prevent it, and how to make the entire process better.**
+**Java Full Stack Development — Jspiders**
+8-Month Intensive Program
 
 ---
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+### NAGASHREE M S
 
-<h2>NAGASHREE M S</h2>
+**Operations Engineer • AI/ML • Deployment • Production Support**
 
-<b>Operations Engineer &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; Deployment &nbsp;•&nbsp; Production Support</b>
+📧 [subramanyamnagashree@gmail.com](mailto:subramanyamnagashree@gmail.com)
+💼 linkedin.com/in/nagashree-m-s-b43a9a319
+💻 github.com/Nagashree-1030
 
-<br><br>
-
-<b>Bangalore, Karnataka, India</b>
-
-<br><br>
-
-📧 <b>Email:</b> subramanyamnagashree@gmail.com
-<br>
-💼 <b>LinkedIn:</b> linkedin.com/in/nagashree-m-s-b43a9a319
-<br>
-💻 <b>GitHub:</b> github.com/Nagashree-1030
-
-<br><br>
-
-<hr>
-
-<b>ENGINEER • DEPLOY • SUPPORT • IMPROVE</b>
-
-</td>
-</tr>
-</table>
+**ENGINEER • DEPLOY • SUPPORT • IMPROVE**
 
 </div>
